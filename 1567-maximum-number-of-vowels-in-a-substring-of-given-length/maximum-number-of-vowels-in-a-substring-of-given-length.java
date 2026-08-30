@@ -7,8 +7,9 @@ class Solution {
             if(s.charAt(r) == 'a' || s.charAt(r) == 'e' || s.charAt(r) == 'i' || s.charAt(r) == 'o' || s.charAt(r) == 'u'){
                 vovel++;
             }
-            maxvovel=Math.max(vovel,maxvovel);
+            
             if(r-l+1==k){
+                maxvovel=Math.max(vovel,maxvovel);
                 if(s.charAt(l) == 'a' || s.charAt(l) == 'e' || s.charAt(l) == 'i' || s.charAt(l) == 'o' || s.charAt(l) == 'u'){
                     vovel--;
                 }
