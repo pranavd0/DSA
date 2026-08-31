@@ -1,23 +1,32 @@
 class Solution {
     public List<List<String>> groupAnagrams(String[] strs) {
-        HashMap<String, List<String>> map = new HashMap<>();
-        for (int i = 0; i < strs.length; i++) {
+         HashMap<String, List<String>> map = new HashMap<>();
 
-            // Sort the current string
-            char[] chars = strs[i].toCharArray();
-            Arrays.sort(chars);
+        for (String str : strs) {
 
-            String sorted = new String(chars);
+            // Frequency array for 26 lowercase English letters
+            int[] freq = new int[26];
 
-            // Create list if key doesn't exist
-            map.putIfAbsent(sorted, new ArrayList<>());
+            // Count frequency of every character
+            for (char ch : str.toCharArray()) {
+                freq[ch - 'a']++;
+            }
+
+            // Convert frequency array into a unique String key
+            StringBuilder key = new StringBuilder();
+
+            for (int count : freq) {
+                key.append(count).append('#');
+            }
+
+            // Create an empty group if this key doesn't exist
+            map.putIfAbsent(key.toString(), new ArrayList<>());
 
             // Add original string to its anagram group
-            map.get(sorted).add(strs[i]);
+            map.get(key.toString()).add(str);
         }
 
-        // Convert HashMap values into List<List<String>>
-        return new ArrayList<>(map.values()); 
-        
+        // Return all anagram groups
+        return new ArrayList<>(map.values());
     }
 }
