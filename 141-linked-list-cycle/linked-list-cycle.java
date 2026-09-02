@@ -11,19 +11,21 @@
  */
 public class Solution {
     public boolean hasCycle(ListNode head) {
-        //add each node in hashset
-        // traverse and check it in hashset 
+        //using floyds slow fast algorithm
+        // slow and fast intersects at pos
         if(head==null||head.next==null){
             return false;
         }
-        HashSet<ListNode> hs=new HashSet<>();
-        ListNode current=head;
-        while(current.next!=null){
-            if(hs.contains(current)){
+        ListNode slow=head;
+        ListNode fast=head;
+        
+        while(fast!=null&&fast.next!=null){
+            
+            slow=slow.next;
+            fast=fast.next.next;
+            if(fast==slow){
                 return true;
             }
-            hs.add(current);
-            current=current.next;
         }
         return false;
     }
