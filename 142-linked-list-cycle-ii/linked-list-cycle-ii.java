@@ -12,7 +12,7 @@
 public class Solution {
     public ListNode detectCycle(ListNode head) {
         //first we will check the cycle using slow fast
-        //after getting cycle i.e meeting point of slow and fast
+        //after getting cycle 
         //take one of the pointer on head and move both the pointers 1 at atime
         //the meeting point is pos
         if(head==null){
@@ -27,7 +27,7 @@ public class Solution {
             slow=slow.next;
             fast=fast.next.next;
             if(slow==fast){
-                
+
                 fast=head;
                 while(fast!=slow){
                     fast=fast.next;
