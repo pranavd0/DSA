@@ -1,17 +1,15 @@
 /*
  * Platform: LeetCode
  * Problem: 0
- * URL: https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05
- * Language: Daily Question
+ * URL: https://leetcode.com/problems/maximum-subarray/description/
+ * Language: Problem List
  * Difficulty: Medium
- * Topics: Array, Prefix Sum
+ * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-06T19:43:29.138Z
+ * Synced: 2026-09-06T19:43:33.204Z
  */
 
-class Solution {
-    public int firstStableIndex(int[] nums, int k) {
-        
-    }
-}
+Input: nums = [-2,1,-3,4,-1,2,1,-5,4]
+Output: 6
+Explanation: The subarray [4,-1,2,1] has the largest sum 6.
