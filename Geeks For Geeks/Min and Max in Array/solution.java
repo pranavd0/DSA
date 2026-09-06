@@ -3,16 +3,16 @@
  * Problem: Min and Max in Array
  * URL: https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
  * Language: Java
- * Difficulty: Basic
+ * Difficulty: Easy
  * Topics: NPCI, Arrays
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-06T22:30:35.604Z
+ * Synced: 2026-09-06T23:40:38.122Z
  */
 
 class Solution {
     public ArrayList<Integer> getMinMax(int[] arr) {
-        //hello
+        //helloooo
         int min = arr[0];
         int max = arr[0];
 
