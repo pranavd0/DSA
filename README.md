@@ -5,8 +5,8 @@
 
 ---
 
-### 📊 Overall Progress: 33 / 375 Solved (8.8%)
-`[██░░░░░░░░░░░░░░░░░░░░░░░]` **8.8%**
+### 📊 Overall Progress: 34 / 375 Solved (9.1%)
+`[██░░░░░░░░░░░░░░░░░░░░░░░]` **9.1%**
 
 ---
 
@@ -14,7 +14,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `9` | `26` | `█████░░░░░░░░░░` 34.6% | [View](#arrays) |
+| **Arrays** | `10` | `26` | `██████░░░░░░░░░` 38.5% | [View](#arrays) |
 | **Strings** | `10` | `22` | `███████░░░░░░░░` 45.5% | [View](#strings) |
 | **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `1` | `23` | `█░░░░░░░░░░░░░░` 4.3% | [View](#searching-sorting) |
@@ -33,11 +33,11 @@
 
 ---
 
-### Arrays (9/26)
+### Arrays (10/26)
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ⬜ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
+| ✅ | 1 | [Maximum and Minimum Element in an Array](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | [GFG](Geeks%20For%20Geeks/Min%20and%20Max%20in%20Array) |
 | ✅ | 2 | [Reverse the Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) | Infosys Moonfrog Labs | - | [GFG](Geeks%20For%20Geeks/Reverse%20Array) |
 | ✅ | 3 | [Maximum-Subarray](https://leetcode.com/problems/maximum-subarray/) | Microsoft + Facebook Interview Qs | use Kadane's Algorithm | [LeetCode](leetcode/53-maximum-subarray) |
 | ⬜ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | - |

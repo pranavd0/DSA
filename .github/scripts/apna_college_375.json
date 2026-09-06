@@ -7,8 +7,10 @@
     "companies": "ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe",
     "remarks": "",
     "aliases": [
+      "find-minimum-and-maximum-element-in-an-array",
       "maximum-and-minimum-element-in-an-array",
-      "maximum-and-minimum-in-an-array"
+      "maximum-and-minimum-in-an-array",
+      "min-and-max-in-array"
     ]
   },
   {
