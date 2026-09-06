@@ -1,5 +1,5 @@
 {
-  "submissionTimestamp": "2026-09-06T21:07:36.899Z",
+  "submissionTimestamp": "2026-09-06T21:08:34.688Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Unknown",
@@ -14,8 +14,8 @@
     "Kritikal Solutions"
   ],
   "platform": "GeeksforGeeks",
-  "language": "Java (21)",
+  "language": "class Solution: #Function to delete a node without any reference to head pointer. def deleteNode(self,del_node): #code here del_node.data = del_node.next.data del_node.next = del_node.next.next",
   "problemTitle": "Delete Node Without Linked List Head",
   "problemUrl": "https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1",
-  "submissionId": "j7v1ar"
+  "submissionId": "pcvoe4"
 }
