@@ -1,15 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-06T19:43:29.138Z",
+  "submissionTimestamp": "2026-09-06T19:43:33.204Z",
   "runtime": "N/A",
   "memoryUsage": "N/A",
   "difficulty": "Medium",
   "tags": [
     "Array",
-    "Prefix Sum"
+    "Divide and Conquer",
+    "Dynamic Programming"
   ],
   "platform": "LeetCode",
-  "language": "Daily Question",
+  "language": "Problem List",
   "problemTitle": "0",
-  "problemUrl": "https://leetcode.com/problems/smallest-stable-index-ii/description/?envType=daily-question&envId=2026-09-05",
-  "submissionId": "n9kkj9"
+  "problemUrl": "https://leetcode.com/problems/maximum-subarray/description/",
+  "submissionId": "iudxok"
 }
