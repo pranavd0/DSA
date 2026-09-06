@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/delete-without-head-pointer/1
-- Synced: 2026-09-06T20:20:00.083Z
+- Synced: 2026-09-06T20:22:11.342Z
 
 ## Problem Description
 
