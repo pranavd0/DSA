@@ -7,12 +7,13 @@
  * Topics: NPCI, Arrays
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-06T23:40:38.122Z
+ * Synced: 2026-09-06T23:40:41.566Z
  */
 
 class Solution {
     public ArrayList<Integer> getMinMax(int[] arr) {
         //helloooo
+        ////////
         int min = arr[0];
         int max = arr[0];
 
