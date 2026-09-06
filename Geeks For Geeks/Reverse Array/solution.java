@@ -2,9 +2,9 @@
  * Platform: GeeksforGeeks
  * Problem: Reverse Array
  * URL: https://www.geeksforgeeks.org/problems/reverse-an-array/1
- * Language: class Solution { public void reverseArray(int arr[]) { for(int i = 0;i<arr.length/2;i++){ int a = i; int b = arr.length-1-i; int temp = arr[b]; arr[b] = arr[a]; arr[a] = temp; } } }
- * Difficulty: Unknown
- * Topics: Expected Complexities, Company Tags, Bloomberg, Facebook, TCS, Adobe, Google, Infosys
+ * Language: Java
+ * Difficulty: Easy
+ * Topics: Bloomberg, Facebook, TCS, Adobe, Google, Infosys, Arrays
  * Runtime: N/A
  * Memory: N/A
  * Synced: 2026-09-06T22:12:21.580Z

@@ -1,9 +1,9 @@
 # Reverse Array
 
 - Platform: GeeksforGeeks
-- Language: class Solution { public void reverseArray(int arr[]) { for(int i = 0;i<arr.length/2;i++){ int a = i; int b = arr.length-1-i; int temp = arr[b]; arr[b] = arr[a]; arr[a] = temp; } } }
-- Difficulty: Unknown
-- Topics: Expected Complexities, Company Tags, Bloomberg, Facebook, TCS, Adobe, Google, Infosys
+- Language: Java
+- Difficulty: Easy
+- Topics: Bloomberg, Facebook, TCS, Adobe, Google, Infosys, Arrays
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/reverse-an-array/1
@@ -15,4 +15,4 @@ You are given an array of integers arr[]. You have to reverse the given array. N
 
 ## Explanation
 
-This solution was accepted on GeeksforGeeks using class Solution { public void reverseArray(int arr[]) { for(int i = 0;i<arr.length/2;i++){ int a = i; int b = arr.length-1-i; int temp = arr[b]; arr[b] = arr[a]; arr[a] = temp; } } }. The detected topics are Expected Complexities, Company Tags, Bloomberg, Facebook, TCS, Adobe, Google, Infosys. Review the synced source file for the implementation details.
+This solution was accepted on GeeksforGeeks using Java. Review the synced source file for implementation details.

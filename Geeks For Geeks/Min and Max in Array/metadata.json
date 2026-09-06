@@ -1,21 +1,15 @@
 {
-  "submissionTimestamp": "2026-09-06T22:30:35.604Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
-  "difficulty": "Unknown",
-  "tags": [
-    "Expected Complexities",
-    "Company Tags NPCI",
-    "Company Tags",
-    "NPCI",
-    "Topic Tags",
-    "Arrays",
-    "Related Articles",
-    "Maximum And Minimum In An Array"
-  ],
-  "platform": "GeeksforGeeks",
-  "language": "Java (21)",
   "problemTitle": "Min and Max in Array",
   "problemUrl": "https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1",
-  "submissionId": "1stwhx"
+  "platform": "GeeksforGeeks",
+  "difficulty": "Basic",
+  "language": "Java",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "tags": [
+    "NPCI",
+    "Arrays"
+  ],
+  "submissionId": "1stwhx",
+  "submissionTimestamp": "2026-09-06T22:30:35.604Z"
 }

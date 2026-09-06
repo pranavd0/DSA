@@ -2,9 +2,9 @@
  * Platform: GeeksforGeeks
  * Problem: Remove Duplicates from Linked List
  * URL: https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
- * Language: class Solution: def removeDuplicates(self, head): current = head while current: runner = current while runner.next: if runner.next.data == current.data: runner.next = runner.next.next else: runner = runner.next current = current.next return head
- * Difficulty: Unknown
- * Topics: Expected Complexities, Company Tags AmazonIntuit, Company Tags, Amazon, Intuit, Topic Tags, Linked List, Related Interview Experiences
+ * Language: Java
+ * Difficulty: Easy
+ * Topics: Amazon, Intuit, Linked List
  * Runtime: N/A
  * Memory: N/A
  * Synced: 2026-09-06T20:53:50.731Z

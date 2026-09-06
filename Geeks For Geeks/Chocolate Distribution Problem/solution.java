@@ -2,10 +2,10 @@
  * Platform: GeeksforGeeks
  * Problem: Chocolate Distribution Problem
  * URL: https://www.geeksforgeeks.org/problems/chocolate-distribution-problem3825/1
- * Language: class Solution { public: int findMinDiff(vector<int>& a, int m) { if (m == 0 || a.size() < m) return 0; sort(a.begin(), a.end()); int minDiff = INT_MAX; for (int i = 0; i + m - 1 < a.size(); ++i) { int diff = a[i + m - 1] - a[i]; minDiff = min(minDiff, diff); } return minDiff; } };
- * Difficulty: Unknown
- * Topics: Expected Complexities, Company Tags Flipkart, Company Tags, Flipkart, Topic Tags, Sorting, Related Interview Experiences, Flipkart Interview Experience Set 24
- * Runtime: N/A
+ * Language: Java
+ * Difficulty: Easy
+ * Topics: Flipkart, Sorting
+ * Runtime: 0.12s
  * Memory: N/A
  * Synced: 2026-09-06T21:55:46.408Z
  */

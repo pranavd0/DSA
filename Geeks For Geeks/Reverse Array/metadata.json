@@ -1,21 +1,20 @@
 {
-  "submissionTimestamp": "2026-09-06T22:12:21.580Z",
+  "problemTitle": "Reverse Array",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
+  "platform": "GeeksforGeeks",
+  "difficulty": "Easy",
+  "language": "Java",
   "runtime": "N/A",
   "memoryUsage": "N/A",
-  "difficulty": "Unknown",
   "tags": [
-    "Expected Complexities",
-    "Company Tags",
     "Bloomberg",
     "Facebook",
     "TCS",
     "Adobe",
     "Google",
-    "Infosys"
+    "Infosys",
+    "Arrays"
   ],
-  "platform": "GeeksforGeeks",
-  "language": "class Solution { public void reverseArray(int arr[]) { for(int i = 0;i<arr.length/2;i++){ int a = i; int b = arr.length-1-i; int temp = arr[b]; arr[b] = arr[a]; arr[a] = temp; } } }",
-  "problemTitle": "Reverse Array",
-  "problemUrl": "https://www.geeksforgeeks.org/problems/reverse-an-array/1",
-  "submissionId": "4qkrta"
+  "submissionId": "4qkrta",
+  "submissionTimestamp": "2026-09-06T22:12:21.580Z"
 }

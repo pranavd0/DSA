@@ -1,9 +1,9 @@
 # Remove Duplicates from Linked List
 
 - Platform: GeeksforGeeks
-- Language: class Solution: def removeDuplicates(self, head): current = head while current: runner = current while runner.next: if runner.next.data == current.data: runner.next = runner.next.next else: runner = runner.next current = current.next return head
-- Difficulty: Unknown
-- Topics: Expected Complexities, Company Tags AmazonIntuit, Company Tags, Amazon, Intuit, Topic Tags, Linked List, Related Interview Experiences
+- Language: Java
+- Difficulty: Easy
+- Topics: Amazon, Intuit, Linked List
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
@@ -15,4 +15,4 @@ Given a head of an unsorted linked list. Remove duplicate elements from this uns
 
 ## Explanation
 
-This solution was accepted on GeeksforGeeks using class Solution: def removeDuplicates(self, head): current = head while current: runner = current while runner.next: if runner.next.data == current.data: runner.next = runner.next.next else: runner = runner.next current = current.next return head. The detected topics are Expected Complexities, Company Tags AmazonIntuit, Company Tags, Amazon, Intuit, Topic Tags, Linked List, Related Interview Experiences. Review the synced source file for the implementation details.
+This solution was accepted on GeeksforGeeks using Java. Review the synced source file for implementation details.

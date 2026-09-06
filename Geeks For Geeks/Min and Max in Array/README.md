@@ -1,9 +1,9 @@
 # Min and Max in Array
 
 - Platform: GeeksforGeeks
-- Language: Java (21)
-- Difficulty: Unknown
-- Topics: Expected Complexities, Company Tags NPCI, Company Tags, NPCI, Topic Tags, Arrays, Related Articles, Maximum And Minimum In An Array
+- Language: Java
+- Difficulty: Basic
+- Topics: NPCI, Arrays
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
@@ -15,4 +15,4 @@ Given an array arr[]. Your task is to find the minimum and maximum elements in t
 
 ## Explanation
 
-This solution was accepted on GeeksforGeeks using Java (21). The detected topics are Expected Complexities, Company Tags NPCI, Company Tags, NPCI, Topic Tags, Arrays, Related Articles, Maximum And Minimum In An Array. Review the synced source file for the implementation details.
+This solution was accepted on GeeksforGeeks using Java. Review the synced source file for implementation details.

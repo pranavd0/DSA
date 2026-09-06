@@ -1,21 +1,16 @@
 {
-  "submissionTimestamp": "2026-09-06T20:53:50.731Z",
-  "runtime": "N/A",
-  "memoryUsage": "N/A",
-  "difficulty": "Unknown",
-  "tags": [
-    "Expected Complexities",
-    "Company Tags AmazonIntuit",
-    "Company Tags",
-    "Amazon",
-    "Intuit",
-    "Topic Tags",
-    "Linked List",
-    "Related Interview Experiences"
-  ],
-  "platform": "GeeksforGeeks",
-  "language": "class Solution: def removeDuplicates(self, head): current = head while current: runner = current while runner.next: if runner.next.data == current.data: runner.next = runner.next.next else: runner = runner.next current = current.next return head",
   "problemTitle": "Remove Duplicates from Linked List",
   "problemUrl": "https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
-  "submissionId": "8lrisa"
+  "platform": "GeeksforGeeks",
+  "difficulty": "Easy",
+  "language": "Java",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "tags": [
+    "Amazon",
+    "Intuit",
+    "Linked List"
+  ],
+  "submissionId": "8lrisa",
+  "submissionTimestamp": "2026-09-06T20:53:50.731Z"
 }
