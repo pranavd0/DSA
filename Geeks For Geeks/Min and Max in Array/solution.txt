@@ -7,7 +7,7 @@
  * Topics: Expected Complexities, Company Tags NPCI, Company Tags, NPCI, Topic Tags, Arrays, Related Articles, Maximum And Minimum In An Array
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-06T22:29:11.267Z
+ * Synced: 2026-09-06T22:30:01.597Z
  */
 
 class Solution {
