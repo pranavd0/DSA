@@ -7,7 +7,7 @@
  * Topics: Array, Divide and Conquer, Dynamic Programming
  * Runtime: 1 ms
  * Memory: 76.94 MB
- * Synced: 2026-09-06T21:28:49.072Z
+ * Synced: 2026-09-06T21:29:36.071Z
  */
 
 class Solution {
