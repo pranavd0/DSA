@@ -7,7 +7,7 @@
 - Runtime: N/A
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
-- Synced: 2026-09-06T23:56:03.996Z
+- Synced: 2026-09-06T23:56:49.079Z
 
 ## Problem Description
 
