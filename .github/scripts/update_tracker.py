@@ -150,6 +150,51 @@ def scan_solved_problems():
                 "difficulty": difficulty
             })
 
+    # 3. InterviewBit directory
+    ib_dir = os.path.join(REPO_ROOT, "InterviewBit")
+    if os.path.isdir(ib_dir):
+        for entry in sorted(os.listdir(ib_dir)):
+            full_path = os.path.join(ib_dir, entry)
+            if not os.path.isdir(full_path) or entry.startswith("."):
+                continue
+            
+            title = entry
+            url = ""
+            difficulty = ""
+            meta_path = os.path.join(full_path, "metadata.json")
+            if os.path.exists(meta_path):
+                try:
+                    with open(meta_path, "r", encoding="utf-8") as f:
+                        mdata = json.load(f)
+                        title = mdata.get("problemTitle", title)
+                        url = mdata.get("problemUrl", "")
+                        difficulty = mdata.get("difficulty", "")
+                except Exception:
+                    pass
+                    
+            if not difficulty:
+                readme_path = os.path.join(full_path, "README.md")
+                if os.path.exists(readme_path):
+                    try:
+                        with open(readme_path, "r", encoding="utf-8", errors="ignore") as f:
+                            dm = re.search(r"Difficulty:\s*([A-Za-z]+)", f.read(1024), re.I)
+                            if dm:
+                                difficulty = dm.group(1).capitalize()
+                    except Exception:
+                        pass
+
+            slug = extract_slug(url) if url else re.sub(r"[^a-zA-Z0-9]+", "-", entry.lower()).strip("-")
+            rel_path = os.path.relpath(full_path, REPO_ROOT)
+            solved.append({
+                "source": "InterviewBit",
+                "folder": entry,
+                "path": rel_path,
+                "slug": slug,
+                "title": title,
+                "url": url,
+                "difficulty": difficulty
+            })
+
     return solved
 
 def main():
@@ -359,7 +404,7 @@ def main():
                 sol_links = []
                 for s in matched_questions[q_id]:
                     enc_path = encode_path(s["path"])
-                    label = "LeetCode" if s["source"] == "LeetCode" else "GFG"
+                    label = "LeetCode" if s["source"] == "LeetCode" else ("InterviewBit" if s["source"] == "InterviewBit" else "GFG")
                     sol_links.append(f"[{label}]({enc_path})")
                 solution_str = " \\| ".join(sol_links)
             else:
