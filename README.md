@@ -25,8 +25,7 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.1%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src="https://img.shields.io/badge/TOTAL%20SOLVED-181717?style=for-the-badge&logo=github&logoColor=white" height="26" /><br/><br/>
-          <img src="https://img.shields.io/badge/45%20PROBLEMS-2ea44f?style=for-the-badge" height="44" />
+          <img src=".github/assets/total_solved.svg" alt="Total Solved: 45 Problems" width="165" />
         </a>
       </td>
     </tr>
