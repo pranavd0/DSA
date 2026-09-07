@@ -11,7 +11,7 @@
 | :--- | :---: | :---: | :--- |
 | **🎯 Apna College Sheet** | `34` | `375` | `██░░░░░░░░░░░░░░░░` **9.1%** |
 | **🌟 Outside Sheet Problems** | `11` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `45` | `-` | **LeetCode & Geeks For Geeks** |
+| **🔥 Total Solved in Repo** | `45` | `-` | **All Platforms** |
 
 ---
 
@@ -35,29 +35,6 @@
 | **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#segment-trees) |
-| **🌟 Additional Solved (Outside Sheet)** | `11` | `-` | `███████████████` 100% | [View](#-additional-solved-problems-outside-the-sheet-11) |
-
----
-
-## 🌟 Additional Solved Problems (Outside the Sheet) (11)
-
-> Here are the **11 questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:
-
-| # | Platform | Problem | Solution |
-| :---: | :---: | :--- | :--- |
-| 1 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
-| 2 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](leetcode/202-happy-number) |
-| 3 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](leetcode/203-remove-linked-list-elements) |
-| 4 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](leetcode/6-zigzag-conversion) |
-| 5 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](leetcode/643-maximum-average-subarray-i) |
-| 6 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](leetcode/724-find-pivot-index) |
-| 7 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](leetcode/739-daily-temperatures) |
-| 8 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](leetcode/78-subsets) |
-| 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
-| 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Solution](leetcode/901-advantage-shuffle) |
-| 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](leetcode/908-middle-of-the-linked-list) |
-
-[⬆ Back to Summary](#-topic-summary)
 
 ---
 
