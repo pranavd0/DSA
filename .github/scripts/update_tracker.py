@@ -156,6 +156,10 @@ def main():
     total_solved = len(matched_questions)
     overall_percent = (total_solved / total_q * 100) if total_q else 0.0
 
+    # Additional Solved Questions
+    extra_solved = [s for s in solved_items if s["path"] not in used_solved_paths]
+    total_all_solved = total_solved + len(extra_solved)
+
     # Group by Topic
     topics = {}
     for q in questions:
@@ -169,12 +173,17 @@ def main():
     lines.append("# 🎯 DSA Tracker - Apna College Sheet (375 Questions)")
     lines.append("")
     lines.append("> Automated progress tracking for **DSA by Shradha Didi & Aman Bhaiya (Apna College)**.")
-    lines.append("> Automatically synced via **LeetSync** (`leetcode/`), **CodeSync** (`Geeks For Geeks/`), and **GitHub Actions**.")
+    lines.append("> Automatically synced via **LeetSync** (`leetcode/`), **GeekSync** (`Geeks For Geeks/`), and **GitHub Actions**.")
     lines.append("")
     lines.append("---")
     lines.append("")
-    lines.append(f"### 📊 Overall Progress: {total_solved} / {total_q} Solved ({overall_percent:.1f}%)")
-    lines.append(f"`[{get_progress_bar(overall_percent)}]` **{overall_percent:.1f}%**")
+    lines.append("## 📊 Overall Progress Summary")
+    lines.append("")
+    lines.append("| Metric | Solved | Total | Progress |")
+    lines.append("| :--- | :---: | :---: | :--- |")
+    lines.append(f"| **🎯 Apna College Sheet** | `{total_solved}` | `{total_q}` | `{get_progress_bar(overall_percent, 18)}` **{overall_percent:.1f}%** |")
+    lines.append(f"| **🌟 Outside Sheet Problems** | `{len(extra_solved)}` | `-` | `{get_progress_bar(100, 18)}` **Tracked** |")
+    lines.append(f"| **🔥 Total Solved in Repo** | `{total_all_solved}` | `-` | **LeetCode & Geeks For Geeks** |")
     lines.append("")
     lines.append("---")
     lines.append("")
@@ -190,9 +199,30 @@ def main():
         anchor = re.sub(r"[^a-z0-9]+", "-", t_name.lower()).strip("-")
         lines.append(f"| **{t_name}** | `{t_solved}` | `{t_total}` | `{get_progress_bar(t_percent, 15)}` {t_percent:.1f}% | [View](#{anchor}) |")
 
+    if extra_solved:
+        lines.append(f"| **🌟 Additional Solved (Outside Sheet)** | `{len(extra_solved)}` | `-` | `{get_progress_bar(100, 15)}` 100% | [View](#-additional-solved-problems-outside-the-sheet-{len(extra_solved)}) |")
+
     lines.append("")
     lines.append("---")
     lines.append("")
+
+    # Additional Solved Questions prominently on the starting page
+    if extra_solved:
+        lines.append(f"## 🌟 Additional Solved Problems (Outside the Sheet) ({len(extra_solved)})")
+        lines.append("")
+        lines.append(f"> Here are the **{len(extra_solved)} questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:")
+        lines.append("")
+        lines.append("| # | Platform | Problem | Solution |")
+        lines.append("| :---: | :---: | :--- | :--- |")
+        for idx, s in enumerate(extra_solved, 1):
+            enc_path = encode_path(s["path"])
+            prob_link = f"[{s['title']}]({s['url']})" if s["url"] else s["title"]
+            lines.append(f"| {idx} | **{s['source']}** | {prob_link} | [Solution]({enc_path}) |")
+        lines.append("")
+        lines.append("[⬆ Back to Summary](#-topic-summary)")
+        lines.append("")
+        lines.append("---")
+        lines.append("")
 
     # Detailed tables for each topic
     for t_name, t_questions in topics.items():
@@ -236,19 +266,6 @@ def main():
         lines.append("[⬆ Back to Summary](#-topic-summary)")
         lines.append("")
         lines.append("---")
-        lines.append("")
-
-    # Additional Solved Questions
-    extra_solved = [s for s in solved_items if s["path"] not in used_solved_paths]
-    if extra_solved:
-        lines.append("## 🌟 Additional Solved Problems (Outside the Sheet)")
-        lines.append("")
-        lines.append("| Platform | Problem | Solution |")
-        lines.append("| :---: | :--- | :--- |")
-        for s in extra_solved:
-            enc_path = encode_path(s["path"])
-            prob_link = f"[{s['title']}]({s['url']})" if s["url"] else s["title"]
-            lines.append(f"| **{s['source']}** | {prob_link} | [Solution]({enc_path}) |")
         lines.append("")
 
     with open(README_FILE, "w", encoding="utf-8") as f:
