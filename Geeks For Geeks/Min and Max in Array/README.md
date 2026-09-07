@@ -4,10 +4,10 @@
 - Language: Java
 - Difficulty: Easy
 - Topics: NPCI, Arrays
-- Runtime: N/A
+- Runtime: 0.13 s
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/find-minimum-and-maximum-element-in-an-array4428/1
-- Synced: 2026-09-07T00:15:14.207Z
+- Synced: 2026-09-07T00:15:50.715Z
 
 ## Problem Description
 
