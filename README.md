@@ -7,11 +7,44 @@
 
 ## 📊 Overall Progress Summary
 
-| Metric | Solved | Total | Progress |
-| :--- | :---: | :---: | :--- |
-| **🎯 Apna College Sheet** | `34` | `375` | `██░░░░░░░░░░░░░░░░` **9.1%** |
-| **🌟 Outside Sheet Problems** | `11` | `-` | `██████████████████` **Tracked** |
-| **🔥 Total Solved in Repo** | `45` | `-` | **All Platforms** |
+<table>
+  <thead>
+    <tr>
+      <th align="left">Metric</th>
+      <th align="center">Solved</th>
+      <th align="center">Total</th>
+      <th align="left">Progress</th>
+      <th align="center">🔥 Total Problems Solved</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b>🎯 Apna College Sheet</b></td>
+      <td align="center"><code>34</code></td>
+      <td align="center"><code>375</code></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.1%</b></td>
+      <td rowspan="3" align="center" valign="middle">
+        <a href="#-topic-summary">
+          <img src="https://img.shields.io/badge/TOTAL%20SOLVED-45%20PROBLEMS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Total Solved: 45" /><br/><br/>
+          <b>🔥 All Platforms Synced</b><br/>
+          <sub>LeetCode &amp; GeeksforGeeks</sub>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td><b>🌟 Outside Sheet Problems</b></td>
+      <td align="center"><code>11</code></td>
+      <td align="center">-</td>
+      <td><code>██████████████████</code> <b>Tracked</b></td>
+    </tr>
+    <tr>
+      <td><b>🔥 Total Solved in Repo</b></td>
+      <td align="center"><code>45</code></td>
+      <td align="center">-</td>
+      <td><b>All Platforms</b></td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -41,7 +74,7 @@
 <details id="additional-solved">
 <summary><h3>🌟 Outside Sheet Problems (11 Extra Solved)</h3></summary>
 
-> Here are the **11 questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:
+> Additional 11 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | Solution |
 | :---: | :---: | :--- | :--- |
