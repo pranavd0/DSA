@@ -35,12 +35,11 @@
 | **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#segment-trees) |
-| **🌟 Additional Solved (Outside Sheet)** | `11` | `-` | `███████████████` 100% | [View](#additional-solved) |
 
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Additional Solved Problems (Outside the Sheet) (11)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (11 Extra Solved)</h3></summary>
 
 > Here are the **11 questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:
 
@@ -62,8 +61,12 @@
 
 </details>
 
+---
+
+## 📚 Apna College Sheet Questions by Topic
+
 <details id="arrays">
-<summary><h3>Arrays (10/26)</h3></summary>
+<summary><h3>📁 Arrays — 10/26 Solved (38.5%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -99,7 +102,7 @@
 </details>
 
 <details id="strings">
-<summary><h3>Strings (10/22)</h3></summary>
+<summary><h3>📁 Strings — 10/22 Solved (45.5%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -131,7 +134,7 @@
 </details>
 
 <details id="2d-arrays">
-<summary><h3>2D Arrays (3/10)</h3></summary>
+<summary><h3>📁 2D Arrays — 3/10 Solved (30.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -151,7 +154,7 @@
 </details>
 
 <details id="searching-sorting">
-<summary><h3>Searching & Sorting (1/23)</h3></summary>
+<summary><h3>📁 Searching & Sorting — 1/23 Solved (4.3%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -184,7 +187,7 @@
 </details>
 
 <details id="backtracking">
-<summary><h3>Backtracking (0/21)</h3></summary>
+<summary><h3>📁 Backtracking — 0/21 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -215,7 +218,7 @@
 </details>
 
 <details id="linked-list">
-<summary><h3>Linked List (7/26)</h3></summary>
+<summary><h3>📁 Linked List — 7/26 Solved (26.9%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -251,7 +254,7 @@
 </details>
 
 <details id="stacks-queues">
-<summary><h3>Stacks & Queues (0/27)</h3></summary>
+<summary><h3>📁 Stacks & Queues — 0/27 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -288,7 +291,7 @@
 </details>
 
 <details id="greedy">
-<summary><h3>Greedy (0/22)</h3></summary>
+<summary><h3>📁 Greedy — 0/22 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -320,7 +323,7 @@
 </details>
 
 <details id="binary-trees">
-<summary><h3>Binary Trees (0/33)</h3></summary>
+<summary><h3>📁 Binary Trees — 0/33 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -363,7 +366,7 @@
 </details>
 
 <details id="binary-search-trees">
-<summary><h3>Binary Search Trees (0/21)</h3></summary>
+<summary><h3>📁 Binary Search Trees — 0/21 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -394,7 +397,7 @@
 </details>
 
 <details id="heaps-hashing">
-<summary><h3>Heaps & Hashing (2/28)</h3></summary>
+<summary><h3>📁 Heaps & Hashing — 2/28 Solved (7.1%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -432,7 +435,7 @@
 </details>
 
 <details id="graphs">
-<summary><h3>Graphs (0/40)</h3></summary>
+<summary><h3>📁 Graphs — 0/40 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -482,7 +485,7 @@
 </details>
 
 <details id="tries">
-<summary><h3>Tries (0/6)</h3></summary>
+<summary><h3>📁 Tries — 0/6 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -498,7 +501,7 @@
 </details>
 
 <details id="dynamic-programming">
-<summary><h3>Dynamic Programming (1/54)</h3></summary>
+<summary><h3>📁 Dynamic Programming — 1/54 Solved (1.9%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -562,7 +565,7 @@
 </details>
 
 <details id="bit-manipulation">
-<summary><h3>Bit Manipulation (0/10)</h3></summary>
+<summary><h3>📁 Bit Manipulation — 0/10 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -582,7 +585,7 @@
 </details>
 
 <details id="segment-trees">
-<summary><h3>Segment Trees (0/6)</h3></summary>
+<summary><h3>📁 Segment Trees — 0/6 Solved (0.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |

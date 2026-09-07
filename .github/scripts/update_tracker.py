@@ -199,17 +199,14 @@ def main():
         anchor = re.sub(r"[^a-z0-9]+", "-", t_name.lower()).strip("-")
         lines.append(f"| **{t_name}** | `{t_solved}` | `{t_total}` | `{get_progress_bar(t_percent, 15)}` {t_percent:.1f}% | [View](#{anchor}) |")
 
-    if extra_solved:
-        lines.append(f"| **🌟 Additional Solved (Outside Sheet)** | `{len(extra_solved)}` | `-` | `{get_progress_bar(100, 15)}` 100% | [View](#additional-solved) |")
-
     lines.append("")
     lines.append("---")
     lines.append("")
 
-    # Additional Solved Questions prominently on the starting page (collapsed by default)
+    # Outside Sheet Problems (collapsed by default)
     if extra_solved:
         lines.append('<details id="additional-solved">')
-        lines.append(f"<summary><h3>🌟 Additional Solved Problems (Outside the Sheet) ({len(extra_solved)})</h3></summary>")
+        lines.append(f"<summary><h3>🌟 Outside Sheet Problems ({len(extra_solved)} Extra Solved)</h3></summary>")
         lines.append("")
         lines.append(f"> Here are the **{len(extra_solved)} questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:")
         lines.append("")
@@ -224,8 +221,13 @@ def main():
         lines.append("")
         lines.append("</details>")
         lines.append("")
+        lines.append("---")
+        lines.append("")
 
-    # Detailed tables for each topic (collapsed by default)
+    # Apna College Sheet Questions by Topic (collapsed by default)
+    lines.append("## 📚 Apna College Sheet Questions by Topic")
+    lines.append("")
+
     for t_name, t_questions in topics.items():
         t_solved = sum(1 for q in t_questions if q["id"] in matched_questions)
         t_total = len(t_questions)
@@ -233,7 +235,7 @@ def main():
         anchor = re.sub(r"[^a-z0-9]+", "-", t_name.lower()).strip("-")
         
         lines.append(f'<details id="{anchor}">')
-        lines.append(f"<summary><h3>{t_name} ({t_solved}/{t_total})</h3></summary>")
+        lines.append(f"<summary><h3>📁 {t_name} — {t_solved}/{t_total} Solved ({t_percent:.1f}%)</h3></summary>")
         lines.append("")
         lines.append("| Status | # | Problem | Companies | Notes / Remarks | Solution |")
         lines.append("| :---: | :---: | :--- | :--- | :--- | :--- |")
