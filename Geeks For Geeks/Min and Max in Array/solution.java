@@ -5,9 +5,9 @@
  * Language: Java
  * Difficulty: Easy
  * Topics: NPCI, Arrays
- * Runtime: N/A
+ * Runtime: 0.13 s
  * Memory: N/A
- * Synced: 2026-09-07T00:15:14.207Z
+ * Synced: 2026-09-07T00:15:50.715Z
  */
 
 class Solution {
@@ -16,6 +16,7 @@ class Solution {
         ////////
         //////
         //////////
+        //////
         int min = arr[0];
         int max = arr[0];
 
