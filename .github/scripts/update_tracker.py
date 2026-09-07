@@ -17,6 +17,18 @@ def normalize_text(text):
     filtered = [w for w in words if w not in stopwords]
     return "".join(filtered) if filtered else "".join(words)
 
+def get_core_tokens(text):
+    if not text:
+        return set()
+    words = re.findall(r"[a-z0-9]+", text.lower())
+    filler = {
+        "the", "a", "an", "in", "of", "to", "for", "with", "and", "or", "on", "at", 
+        "from", "by", "given", "using", "problem", "write", "program", "function", 
+        "check", "whether", "numbers", "represented", "find", "determine", "set", 
+        "solution", "practice", "all", "is", "be", "as"
+    }
+    return set(w for w in words if w not in filler and len(w) > 1)
+
 def extract_slug(url):
     if not url:
         return ""
@@ -247,6 +259,48 @@ def main():
 
         if matches:
             matched_questions[q_id] = matches
+
+    # Pass 2: Intelligent Core Token Matching for remaining unmatched problems
+    # (Handles GFG articles vs practice titles where filler words like 'numbers represented' are omitted)
+    remaining_solved = [s for s in solved_items if s["path"] not in used_solved_paths]
+    for s in remaining_solved:
+        s_core = get_core_tokens(s["title"]) | get_core_tokens(s["slug"].replace("-", " "))
+        if len(s_core) < 2:
+            continue
+            
+        best_match_id = None
+        best_score = 0.0
+        
+        for q in questions:
+            if q["id"] in matched_questions:
+                continue
+            q_slug = extract_slug(q["url"])
+            q_core = get_core_tokens(q["name"]) | get_core_tokens(q_slug.replace("-", " "))
+            for a in q.get("aliases", []):
+                q_core |= get_core_tokens(a.replace("-", " "))
+                
+            if not q_core:
+                continue
+                
+            overlap = s_core & q_core
+            if not overlap:
+                continue
+                
+            # Exact core token match
+            if s_core == q_core:
+                best_match_id = q["id"]
+                break
+                
+            # High subset overlap match (all solved core tokens are in question, with >=3 overlapping words)
+            if len(overlap) >= 3 and overlap == s_core:
+                jaccard = len(overlap) / len(s_core | q_core)
+                if jaccard > best_score and jaccard >= 0.5:
+                    best_score = jaccard
+                    best_match_id = q["id"]
+
+        if best_match_id:
+            matched_questions.setdefault(best_match_id, []).append(s)
+            used_solved_paths.add(s["path"])
 
     total_q = len(questions)
     total_solved = len(matched_questions)

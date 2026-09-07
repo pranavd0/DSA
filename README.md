@@ -20,9 +20,9 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>36</code></td>
+      <td align="center"><code>37</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.6%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.9%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
           <img src=".github/assets/total_solved_49.svg" alt="Total Solved: 49 Problems" width="165" />
@@ -31,7 +31,7 @@
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>13</code></td>
+      <td align="center"><code>12</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
@@ -55,7 +55,7 @@
 | **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `1` | `23` | `█░░░░░░░░░░░░░░` 4.3% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
-| **Linked List** | `7` | `26` | `████░░░░░░░░░░░` 26.9% | [View](#linked-list) |
+| **Linked List** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#linked-list) |
 | **Stacks & Queues** | `0` | `27` | `░░░░░░░░░░░░░░░` 0.0% | [View](#stacks-queues) |
 | **Greedy** | `0` | `22` | `░░░░░░░░░░░░░░░` 0.0% | [View](#greedy) |
 | **Binary Trees** | `0` | `33` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-trees) |
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (13 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (12 Extra Solved)</h3></summary>
 
-> Additional 13 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 12 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | Difficulty | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -87,8 +87,7 @@
 | 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
 | 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | [Solution](leetcode/901-advantage-shuffle) |
 | 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
-| 12 | **GFG** | [Multiply Two Linked Lists](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Multiply%20Two%20Linked%20Lists) |
-| 13 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 12 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
 
 [⬆ Back to Summary](#-topic-summary)
 
@@ -251,7 +250,7 @@
 </details>
 
 <details id="linked-list">
-<summary><h3>📁 Linked List — 7/26 Solved (26.9%)</h3></summary>
+<summary><h3>📁 Linked List — 8/26 Solved (30.8%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -261,7 +260,7 @@
 | ✅ | 106 | [Delete without Head node](https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/) | Amazon Goldman Sachs Kritikal Solutions Microsoft Samsung Visa | - | [LeetCode](leetcode/237-delete-node-in-a-linked-list) \| [GFG](Geeks%20For%20Geeks/Delete%20Node%20Without%20Linked%20List%20Head) |
 | ✅ | 107 | [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/) | Amazon Intuit | - | [GFG](Geeks%20For%20Geeks/Remove%20Duplicates%20from%20Linked%20List) |
 | ⬜ | 108 | [Sort a linked list of 0s-1s-or-2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) | Microsoft Amazon MakeMyTrip | - | - |
-| ⬜ | 109 | [Multiply two numbers represented linked lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) | Amazon | - | - |
+| ✅ | 109 | [Multiply two numbers represented linked lists](https://www.geeksforgeeks.org/multiply-two-numbers-represented-linked-lists/) | Amazon | - | [GFG](Geeks%20For%20Geeks/Multiply%20Two%20Linked%20Lists) |
 | ✅ | 110 | [Remove nth node from end of list](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Accolite Adobe Amazon Citicorp Epic Systems FactSet Hike MAQ Software Monotype Solutions Morgan Stanley OYO Rooms Qualcomm Samsung Snapdeal Flipkart | - | [LeetCode](leetcode/19-remove-nth-node-from-end-of-list) |
 | ⬜ | 111 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Amazon Microsoft OYO Rooms Intuit | - | - |
 | ✅ | 112 | [Detect and remove loop in a linked list](https://www.geeksforgeeks.org/detect-and-remove-loop-in-a-linked-list/) | Accolite Amazon D-E-Shaw Hike Lybrate Mahindra Comviva MakeMyTrip MAQ Software OYO Rooms Paytm Qualcomm Samsung SAP Labs Snapdeal Veritas VMWare Walmart Adobe | - | [LeetCode](leetcode/142-linked-list-cycle-ii) |
