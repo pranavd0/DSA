@@ -25,7 +25,7 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.3%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved.svg" alt="Total Solved: 47 Problems" width="165" />
+          <img src=".github/assets/total_solved_47.svg" alt="Total Solved: 47 Problems" width="165" />
         </a>
       </td>
     </tr>

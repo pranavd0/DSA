@@ -219,9 +219,22 @@ def main():
             topics[t] = []
         topics[t].append(q)
 
-    # Generate Total Solved SVG Badge
-    svg_badge_path = os.path.join(REPO_ROOT, ".github", "assets", "total_solved.svg")
-    generate_total_solved_svg(total_all_solved, svg_badge_path)
+    # Generate Total Solved SVG Badge (canonical + versioned for instant cache-busting)
+    assets_dir = os.path.join(REPO_ROOT, ".github", "assets")
+    os.makedirs(assets_dir, exist_ok=True)
+    for fname in os.listdir(assets_dir):
+        if fname.startswith("total_solved_") and fname.endswith(".svg"):
+            try:
+                os.remove(os.path.join(assets_dir, fname))
+            except Exception:
+                pass
+
+    canonical_svg = os.path.join(assets_dir, "total_solved.svg")
+    generate_total_solved_svg(total_all_solved, canonical_svg)
+
+    versioned_filename = f"total_solved_{total_all_solved}.svg"
+    versioned_svg = os.path.join(assets_dir, versioned_filename)
+    generate_total_solved_svg(total_all_solved, versioned_svg)
 
     # Build README Markdown
     lines = []
@@ -252,7 +265,7 @@ def main():
     lines.append(f'      <td><code>{get_progress_bar(overall_percent, 18)}</code> <b>{overall_percent:.1f}%</b></td>')
     lines.append('      <td rowspan="3" align="center" valign="middle">')
     lines.append('        <a href="#-topic-summary">')
-    lines.append(f'          <img src=".github/assets/total_solved.svg" alt="Total Solved: {total_all_solved} Problems" width="165" />')
+    lines.append(f'          <img src=".github/assets/{versioned_filename}" alt="Total Solved: {total_all_solved} Problems" width="165" />')
     lines.append('        </a>')
     lines.append('      </td>')
     lines.append("    </tr>")
