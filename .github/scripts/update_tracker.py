@@ -199,17 +199,41 @@ def main():
         anchor = re.sub(r"[^a-z0-9]+", "-", t_name.lower()).strip("-")
         lines.append(f"| **{t_name}** | `{t_solved}` | `{t_total}` | `{get_progress_bar(t_percent, 15)}` {t_percent:.1f}% | [View](#{anchor}) |")
 
+    if extra_solved:
+        lines.append(f"| **🌟 Additional Solved (Outside Sheet)** | `{len(extra_solved)}` | `-` | `{get_progress_bar(100, 15)}` 100% | [View](#additional-solved) |")
+
     lines.append("")
     lines.append("---")
     lines.append("")
 
-    # Detailed tables for each topic
+    # Additional Solved Questions prominently on the starting page (collapsed by default)
+    if extra_solved:
+        lines.append('<details id="additional-solved">')
+        lines.append(f"<summary><h3>🌟 Additional Solved Problems (Outside the Sheet) ({len(extra_solved)})</h3></summary>")
+        lines.append("")
+        lines.append(f"> Here are the **{len(extra_solved)} questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:")
+        lines.append("")
+        lines.append("| # | Platform | Problem | Solution |")
+        lines.append("| :---: | :---: | :--- | :--- |")
+        for idx, s in enumerate(extra_solved, 1):
+            enc_path = encode_path(s["path"])
+            prob_link = f"[{s['title']}]({s['url']})" if s["url"] else s["title"]
+            lines.append(f"| {idx} | **{s['source']}** | {prob_link} | [Solution]({enc_path}) |")
+        lines.append("")
+        lines.append("[⬆ Back to Summary](#-topic-summary)")
+        lines.append("")
+        lines.append("</details>")
+        lines.append("")
+
+    # Detailed tables for each topic (collapsed by default)
     for t_name, t_questions in topics.items():
         t_solved = sum(1 for q in t_questions if q["id"] in matched_questions)
         t_total = len(t_questions)
         t_percent = (t_solved / t_total * 100) if t_total else 0.0
+        anchor = re.sub(r"[^a-z0-9]+", "-", t_name.lower()).strip("-")
         
-        lines.append(f"### {t_name} ({t_solved}/{t_total})")
+        lines.append(f'<details id="{anchor}">')
+        lines.append(f"<summary><h3>{t_name} ({t_solved}/{t_total})</h3></summary>")
         lines.append("")
         lines.append("| Status | # | Problem | Companies | Notes / Remarks | Solution |")
         lines.append("| :---: | :---: | :--- | :--- | :--- | :--- |")
@@ -244,7 +268,7 @@ def main():
         lines.append("")
         lines.append("[⬆ Back to Summary](#-topic-summary)")
         lines.append("")
-        lines.append("---")
+        lines.append("</details>")
         lines.append("")
 
     with open(README_FILE, "w", encoding="utf-8") as f:

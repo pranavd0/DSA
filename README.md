@@ -35,10 +35,35 @@
 | **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#segment-trees) |
+| **🌟 Additional Solved (Outside Sheet)** | `11` | `-` | `███████████████` 100% | [View](#additional-solved) |
 
 ---
 
-### Arrays (10/26)
+<details id="additional-solved">
+<summary><h3>🌟 Additional Solved Problems (Outside the Sheet) (11)</h3></summary>
+
+> Here are the **11 questions** you have solved on LeetCode and GeeksforGeeks that are outside the 375 Apna College curriculum:
+
+| # | Platform | Problem | Solution |
+| :---: | :---: | :--- | :--- |
+| 1 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| 2 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](leetcode/202-happy-number) |
+| 3 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](leetcode/203-remove-linked-list-elements) |
+| 4 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](leetcode/6-zigzag-conversion) |
+| 5 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](leetcode/643-maximum-average-subarray-i) |
+| 6 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](leetcode/724-find-pivot-index) |
+| 7 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](leetcode/739-daily-temperatures) |
+| 8 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](leetcode/78-subsets) |
+| 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
+| 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Solution](leetcode/901-advantage-shuffle) |
+| 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](leetcode/908-middle-of-the-linked-list) |
+
+[⬆ Back to Summary](#-topic-summary)
+
+</details>
+
+<details id="arrays">
+<summary><h3>Arrays (10/26)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -71,9 +96,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Strings (10/22)
+<details id="strings">
+<summary><h3>Strings (10/22)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -102,9 +128,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### 2D Arrays (3/10)
+<details id="2d-arrays">
+<summary><h3>2D Arrays (3/10)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -121,9 +148,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Searching & Sorting (1/23)
+<details id="searching-sorting">
+<summary><h3>Searching & Sorting (1/23)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -153,9 +181,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Backtracking (0/21)
+<details id="backtracking">
+<summary><h3>Backtracking (0/21)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -183,9 +212,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Linked List (7/26)
+<details id="linked-list">
+<summary><h3>Linked List (7/26)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -218,9 +248,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Stacks & Queues (0/27)
+<details id="stacks-queues">
+<summary><h3>Stacks & Queues (0/27)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -254,9 +285,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Greedy (0/22)
+<details id="greedy">
+<summary><h3>Greedy (0/22)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -285,9 +317,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Binary Trees (0/33)
+<details id="binary-trees">
+<summary><h3>Binary Trees (0/33)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -327,9 +360,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Binary Search Trees (0/21)
+<details id="binary-search-trees">
+<summary><h3>Binary Search Trees (0/21)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -357,9 +391,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Heaps & Hashing (2/28)
+<details id="heaps-hashing">
+<summary><h3>Heaps & Hashing (2/28)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -394,9 +429,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Graphs (0/40)
+<details id="graphs">
+<summary><h3>Graphs (0/40)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -443,9 +479,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Tries (0/6)
+<details id="tries">
+<summary><h3>Tries (0/6)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -458,9 +495,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Dynamic Programming (1/54)
+<details id="dynamic-programming">
+<summary><h3>Dynamic Programming (1/54)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -521,9 +559,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Bit Manipulation (0/10)
+<details id="bit-manipulation">
+<summary><h3>Bit Manipulation (0/10)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -540,9 +579,10 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
-### Segment Trees (0/6)
+<details id="segment-trees">
+<summary><h3>Segment Trees (0/6)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -555,5 +595,5 @@
 
 [⬆ Back to Summary](#-topic-summary)
 
----
+</details>
 
