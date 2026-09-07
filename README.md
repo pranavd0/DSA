@@ -20,24 +20,24 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>37</code></td>
+      <td align="center"><code>40</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.9%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>10.7%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_49.svg" alt="Total Solved: 49 Problems" width="165" />
+          <img src=".github/assets/total_solved_59.svg" alt="Total Solved: 59 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>12</code></td>
+      <td align="center"><code>19</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>49</code></td>
+      <td align="center"><code>59</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -50,7 +50,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `12` | `26` | `███████░░░░░░░░` 46.2% | [View](#arrays) |
+| **Arrays** | `14` | `26` | `████████░░░░░░░` 53.8% | [View](#arrays) |
 | **Strings** | `10` | `22` | `███████░░░░░░░░` 45.5% | [View](#strings) |
 | **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `1` | `23` | `█░░░░░░░░░░░░░░` 4.3% | [View](#searching-sorting) |
@@ -65,29 +65,36 @@
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
 | **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
-| **Segment Trees** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#segment-trees) |
+| **Segment Trees** | `1` | `6` | `██░░░░░░░░░░░░░` 16.7% | [View](#segment-trees) |
 
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (12 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (19 Extra Solved)</h3></summary>
 
-> Additional 12 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 19 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | Difficulty | Solution |
 | :---: | :---: | :--- | :---: | :--- |
-| 1 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 🟡 Medium | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
-| 2 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Solution](leetcode/202-happy-number) |
-| 3 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | [Solution](leetcode/203-remove-linked-list-elements) |
-| 4 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | [Solution](leetcode/6-zigzag-conversion) |
-| 5 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
-| 6 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Solution](leetcode/724-find-pivot-index) |
-| 7 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | [Solution](leetcode/739-daily-temperatures) |
-| 8 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | [Solution](leetcode/78-subsets) |
-| 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
-| 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | [Solution](leetcode/901-advantage-shuffle) |
-| 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
-| 12 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 1 | **LeetCode** | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢 Easy | [Solution](leetcode/1480-running-sum-of-1d-array) |
+| 2 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 🟡 Medium | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| 3 | **LeetCode** | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 🟢 Easy | [Solution](leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| 4 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Solution](leetcode/202-happy-number) |
+| 5 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | [Solution](leetcode/203-remove-linked-list-elements) |
+| 6 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡 Medium | [Solution](leetcode/525-contiguous-array) |
+| 7 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡 Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
+| 8 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | [Solution](leetcode/6-zigzag-conversion) |
+| 9 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
+| 10 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢 Easy | [Solution](leetcode/645-set-mismatch) |
+| 11 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡 Medium | [Solution](leetcode/707-design-linked-list) |
+| 12 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Solution](leetcode/724-find-pivot-index) |
+| 13 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | [Solution](leetcode/739-daily-temperatures) |
+| 14 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | [Solution](leetcode/78-subsets) |
+| 15 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
+| 16 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | [Solution](leetcode/901-advantage-shuffle) |
+| 17 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
+| 18 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡 Medium | [Solution](leetcode/912-sort-an-array) |
+| 19 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
 
 [⬆ Back to Summary](#-topic-summary)
 
@@ -98,7 +105,7 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details id="arrays">
-<summary><h3>📁 Arrays — 12/26 Solved (46.2%)</h3></summary>
+<summary><h3>📁 Arrays — 14/26 Solved (53.8%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -112,8 +119,8 @@
 | ✅ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | [LeetCode](leetcode/121-best-time-to-buy-and-sell-stock) |
 | ✅ | 9 | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon Interview Qs | - | [InterviewBit](InterviewBit/Repeat%20and%20Missing%20Number%20Array) |
 | ✅ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | [LeetCode](leetcode/215-kth-largest-element-in-an-array) |
-| ⬜ | 11 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Samsung Interview Qs | - | - |
-| ⬜ | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Microsoft + Facebook Interview Qs | - | - |
+| ✅ | 11 | [Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) | Samsung Interview Qs | - | [LeetCode](leetcode/42-trapping-rain-water) |
+| ✅ | 12 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Microsoft + Facebook Interview Qs | - | [LeetCode](leetcode/238-product-of-array-except-self) |
 | ✅ | 13 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Amazon D-E-Shaw Microsoft Morgan Stanley OYO Rooms Google | - | [LeetCode](leetcode/152-maximum-product-subarray) |
 | ⬜ | 14 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | - |
 | ⬜ | 15 | [Find Pair with Sum in Sorted & Rotated Array](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp) | Microsoft + Google + Apple Interview Qs | - | - |
@@ -617,11 +624,11 @@
 </details>
 
 <details id="segment-trees">
-<summary><h3>📁 Segment Trees — 0/6 Solved (0.0%)</h3></summary>
+<summary><h3>📁 Segment Trees — 1/6 Solved (16.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ⬜ | 370 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | - | - | - |
+| ✅ | 370 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | - | - | [LeetCode](leetcode/303-range-sum-query-immutable) |
 | ⬜ | 371 | [Range Minimum Query](https://cp-algorithms.com/sequences/rmq.html) | Google Interview Qs | - | - |
 | ⬜ | 372 | [Range Sum Query - Mutable](https://leetcode.com/problems/range-sum-query-mutable/) | Alibaba | - | - |
 | ⬜ | 373 | [Create Sorted Array through Instructions](https://leetcode.com/problems/create-sorted-array-through-instructions/) | Samsung + Accolite | - | - |
