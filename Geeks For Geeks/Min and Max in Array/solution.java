@@ -7,7 +7,7 @@
  * Topics: NPCI, Arrays
  * Runtime: N/A
  * Memory: N/A
- * Synced: 2026-09-07T00:03:54.022Z
+ * Synced: 2026-09-07T00:04:39.653Z
  */
 
 class Solution {
