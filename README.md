@@ -25,19 +25,19 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.6%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_48.svg" alt="Total Solved: 48 Problems" width="165" />
+          <img src=".github/assets/total_solved_49.svg" alt="Total Solved: 49 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>12</code></td>
+      <td align="center"><code>13</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>48</code></td>
+      <td align="center"><code>49</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (12 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (13 Extra Solved)</h3></summary>
 
-> Additional 12 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 13 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | Difficulty | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -87,7 +87,8 @@
 | 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
 | 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | [Solution](leetcode/901-advantage-shuffle) |
 | 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
-| 12 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 12 | **GFG** | [Multiply Two Linked Lists](https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Multiply%20Two%20Linked%20Lists) |
+| 13 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢 Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
 
 [⬆ Back to Summary](#-topic-summary)
 
