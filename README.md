@@ -25,9 +25,8 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>9.1%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src="https://img.shields.io/badge/TOTAL%20SOLVED-45%20PROBLEMS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Total Solved: 45" /><br/><br/>
-          <b>🔥 All Platforms Synced</b><br/>
-          <sub>LeetCode &amp; GeeksforGeeks</sub>
+          <img src="https://img.shields.io/badge/TOTAL%20SOLVED-181717?style=for-the-badge&logo=github&logoColor=white" height="26" /><br/><br/>
+          <img src="https://img.shields.io/badge/45%20PROBLEMS-2ea44f?style=for-the-badge" height="44" />
         </a>
       </td>
     </tr>
@@ -76,19 +75,19 @@
 
 > Additional 11 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
-| # | Platform | Problem | Solution |
-| :---: | :---: | :--- | :--- |
-| 1 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
-| 2 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | [Solution](leetcode/202-happy-number) |
-| 3 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [Solution](leetcode/203-remove-linked-list-elements) |
-| 4 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Solution](leetcode/6-zigzag-conversion) |
-| 5 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | [Solution](leetcode/643-maximum-average-subarray-i) |
-| 6 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | [Solution](leetcode/724-find-pivot-index) |
-| 7 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | [Solution](leetcode/739-daily-temperatures) |
-| 8 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | [Solution](leetcode/78-subsets) |
-| 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
-| 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | [Solution](leetcode/901-advantage-shuffle) |
-| 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [Solution](leetcode/908-middle-of-the-linked-list) |
+| # | Platform | Problem | Difficulty | Solution |
+| :---: | :---: | :--- | :---: | :--- |
+| 1 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 🟡 Medium | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| 2 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢 Easy | [Solution](leetcode/202-happy-number) |
+| 3 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢 Easy | [Solution](leetcode/203-remove-linked-list-elements) |
+| 4 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡 Medium | [Solution](leetcode/6-zigzag-conversion) |
+| 5 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢 Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
+| 6 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢 Easy | [Solution](leetcode/724-find-pivot-index) |
+| 7 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡 Medium | [Solution](leetcode/739-daily-temperatures) |
+| 8 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡 Medium | [Solution](leetcode/78-subsets) |
+| 9 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢 Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
+| 10 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡 Medium | [Solution](leetcode/901-advantage-shuffle) |
+| 11 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢 Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
 
 [⬆ Back to Summary](#-topic-summary)
 

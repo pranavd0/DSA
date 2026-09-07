@@ -32,6 +32,20 @@ def get_progress_bar(percent, width=25):
 def encode_path(p):
     return urllib.parse.quote(p, safe="/#")
 
+def format_difficulty(diff):
+    if not diff:
+        return "-"
+    d = diff.strip().capitalize()
+    if d == "Easy":
+        return "🟢 Easy"
+    elif d == "Medium":
+        return "🟡 Medium"
+    elif d == "Hard":
+        return "🔴 Hard"
+    elif d in ["Basic", "School"]:
+        return f"🟢 {d}"
+    return d
+
 def scan_solved_problems():
     solved = []
     
@@ -47,14 +61,20 @@ def scan_solved_problems():
             m = re.match(r"^(\d+)-(.*)$", entry)
             slug = m.group(2).lower() if m else entry.lower()
             title = ""
+            difficulty = ""
             readme_path = os.path.join(full_path, "README.md")
             if os.path.exists(readme_path):
                 try:
                     with open(readme_path, "r", encoding="utf-8", errors="ignore") as f:
-                        first_line = f.readline()
-                        tm = re.search(r">([^<]+)</a>", first_line)
+                        c = f.read(2048)
+                        tm = re.search(r">([^<]+)</a>", c)
                         if tm:
                             title = tm.group(1).strip()
+                        dm = re.search(r"Difficulty-([A-Za-z]+)", c)
+                        if not dm:
+                            dm = re.search(r"alt=['\"]Difficulty:\s*([A-Za-z]+)['\"]", c)
+                        if dm:
+                            difficulty = dm.group(1).capitalize()
                 except Exception:
                     pass
             
@@ -65,7 +85,8 @@ def scan_solved_problems():
                 "path": rel_path,
                 "slug": slug,
                 "title": title or slug.replace("-", " ").title(),
-                "url": f"https://leetcode.com/problems/{slug}/"
+                "url": f"https://leetcode.com/problems/{slug}/",
+                "difficulty": difficulty
             })
             
     # 2. Geeks For Geeks directory
@@ -78,6 +99,7 @@ def scan_solved_problems():
             
             title = entry
             url = ""
+            difficulty = ""
             meta_path = os.path.join(full_path, "metadata.json")
             if os.path.exists(meta_path):
                 try:
@@ -85,9 +107,21 @@ def scan_solved_problems():
                         mdata = json.load(f)
                         title = mdata.get("problemTitle", title)
                         url = mdata.get("problemUrl", "")
+                        difficulty = mdata.get("difficulty", "")
                 except Exception:
                     pass
                     
+            if not difficulty:
+                readme_path = os.path.join(full_path, "README.md")
+                if os.path.exists(readme_path):
+                    try:
+                        with open(readme_path, "r", encoding="utf-8", errors="ignore") as f:
+                            dm = re.search(r"Difficulty:\s*([A-Za-z]+)", f.read(1024), re.I)
+                            if dm:
+                                difficulty = dm.group(1).capitalize()
+                    except Exception:
+                        pass
+
             slug = extract_slug(url) if url else re.sub(r"[^a-zA-Z0-9]+", "-", entry.lower()).strip("-")
             rel_path = os.path.relpath(full_path, REPO_ROOT)
             solved.append({
@@ -96,7 +130,8 @@ def scan_solved_problems():
                 "path": rel_path,
                 "slug": slug,
                 "title": title,
-                "url": url
+                "url": url,
+                "difficulty": difficulty
             })
 
     return solved
@@ -197,9 +232,8 @@ def main():
     lines.append(f'      <td><code>{get_progress_bar(overall_percent, 18)}</code> <b>{overall_percent:.1f}%</b></td>')
     lines.append('      <td rowspan="3" align="center" valign="middle">')
     lines.append('        <a href="#-topic-summary">')
-    lines.append(f'          <img src="https://img.shields.io/badge/TOTAL%20SOLVED-{total_all_solved}%20PROBLEMS-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Total Solved: {total_all_solved}" /><br/><br/>')
-    lines.append('          <b>🔥 All Platforms Synced</b><br/>')
-    lines.append('          <sub>LeetCode &amp; GeeksforGeeks</sub>')
+    lines.append('          <img src="https://img.shields.io/badge/TOTAL%20SOLVED-181717?style=for-the-badge&logo=github&logoColor=white" height="26" /><br/><br/>')
+    lines.append(f'          <img src="https://img.shields.io/badge/{total_all_solved}%20PROBLEMS-2ea44f?style=for-the-badge" height="44" />')
     lines.append('        </a>')
     lines.append('      </td>')
     lines.append("    </tr>")
@@ -243,12 +277,13 @@ def main():
         lines.append("")
         lines.append(f"> Additional {len(extra_solved)} Problems Solved on LeetCode/GFG outside the Apna College sheet.")
         lines.append("")
-        lines.append("| # | Platform | Problem | Solution |")
-        lines.append("| :---: | :---: | :--- | :--- |")
+        lines.append("| # | Platform | Problem | Difficulty | Solution |")
+        lines.append("| :---: | :---: | :--- | :---: | :--- |")
         for idx, s in enumerate(extra_solved, 1):
             enc_path = encode_path(s["path"])
             prob_link = f"[{s['title']}]({s['url']})" if s["url"] else s["title"]
-            lines.append(f"| {idx} | **{s['source']}** | {prob_link} | [Solution]({enc_path}) |")
+            diff_badge = format_difficulty(s.get("difficulty", ""))
+            lines.append(f"| {idx} | **{s['source']}** | {prob_link} | {diff_badge} | [Solution]({enc_path}) |")
         lines.append("")
         lines.append("[⬆ Back to Summary](#-topic-summary)")
         lines.append("")
