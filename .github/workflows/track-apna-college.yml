@@ -38,8 +38,8 @@ jobs:
 
       - name: Commit and Push Changes
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git config user.name "pranavd0"
+          git config user.email "pranavdhawale2609@gmail.com"
           git add -A README.md .github/assets/
           if git diff --staged --quiet; then
             echo "No changes to commit."

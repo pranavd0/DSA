@@ -49,13 +49,13 @@ def format_difficulty(diff):
         return "-"
     d = diff.strip().capitalize()
     if d == "Easy":
-        return "🟢 Easy"
+        return "🟢&nbsp;Easy"
     elif d == "Medium":
-        return "🟡 Medium"
+        return "🟡&nbsp;Medium"
     elif d == "Hard":
-        return "🔴 Hard"
+        return "🔴&nbsp;Hard"
     elif d in ["Basic", "School"]:
-        return f"🟢 {d}"
+        return f"🟢&nbsp;{d}"
     return d
 
 def generate_total_solved_svg(count, output_path):
@@ -408,7 +408,7 @@ def main():
         lines.append("")
         lines.append(f"> Additional {len(extra_solved)} Problems Solved on LeetCode/GFG outside the Apna College sheet.")
         lines.append("")
-        lines.append("| # | Platform | Problem | Difficulty | Solution |")
+        lines.append("| # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |")
         lines.append("| :---: | :---: | :--- | :---: | :--- |")
         for idx, s in enumerate(extra_solved, 1):
             enc_path = encode_path(s["path"])
