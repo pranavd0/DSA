@@ -25,19 +25,19 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>10.7%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_61.svg" alt="Total Solved: 61 Problems" width="165" />
+          <img src=".github/assets/total_solved_62.svg" alt="Total Solved: 62 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>21</code></td>
+      <td align="center"><code>22</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>61</code></td>
+      <td align="center"><code>62</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (21 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (22 Extra Solved)</h3></summary>
 
-> Additional 21 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 22 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -82,21 +82,22 @@
 | 4 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢&nbsp;Easy | [Solution](leetcode/202-happy-number) |
 | 5 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/203-remove-linked-list-elements) |
 | 6 | **LeetCode** | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢&nbsp;Easy | [Solution](leetcode/4245-count-commas-in-range) |
-| 7 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡&nbsp;Medium | [Solution](leetcode/525-contiguous-array) |
-| 8 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡&nbsp;Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
-| 9 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡&nbsp;Medium | [Solution](leetcode/6-zigzag-conversion) |
-| 10 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢&nbsp;Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
-| 11 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢&nbsp;Easy | [Solution](leetcode/645-set-mismatch) |
-| 12 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡&nbsp;Medium | [Solution](leetcode/707-design-linked-list) |
-| 13 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢&nbsp;Easy | [Solution](leetcode/724-find-pivot-index) |
-| 14 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡&nbsp;Medium | [Solution](leetcode/739-daily-temperatures) |
-| 15 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡&nbsp;Medium | [Solution](leetcode/78-subsets) |
-| 16 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢&nbsp;Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
-| 17 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡&nbsp;Medium | [Solution](leetcode/901-advantage-shuffle) |
-| 18 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢&nbsp;Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
-| 19 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/912-sort-an-array) |
-| 20 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
-| 21 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 7 | **LeetCode** | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡&nbsp;Medium | [Solution](leetcode/4248-count-commas-in-range-ii) |
+| 8 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡&nbsp;Medium | [Solution](leetcode/525-contiguous-array) |
+| 9 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡&nbsp;Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
+| 10 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡&nbsp;Medium | [Solution](leetcode/6-zigzag-conversion) |
+| 11 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢&nbsp;Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
+| 12 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢&nbsp;Easy | [Solution](leetcode/645-set-mismatch) |
+| 13 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡&nbsp;Medium | [Solution](leetcode/707-design-linked-list) |
+| 14 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢&nbsp;Easy | [Solution](leetcode/724-find-pivot-index) |
+| 15 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡&nbsp;Medium | [Solution](leetcode/739-daily-temperatures) |
+| 16 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡&nbsp;Medium | [Solution](leetcode/78-subsets) |
+| 17 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢&nbsp;Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
+| 18 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡&nbsp;Medium | [Solution](leetcode/901-advantage-shuffle) |
+| 19 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢&nbsp;Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
+| 20 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/912-sort-an-array) |
+| 21 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
+| 22 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
 
 [⬆ Back to Summary](#-topic-summary)
 
