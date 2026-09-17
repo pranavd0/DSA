@@ -1,4 +1,5 @@
 class Solution {
+    //recursive approach
     public int fib(int n) {
         //step 1:Define function
         //f(n)=f(n-1)+f(n-2)
