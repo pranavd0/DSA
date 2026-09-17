@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>40</code></td>
+      <td align="center"><code>41</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>10.7%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>10.9%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_68.svg" alt="Total Solved: 68 Problems" width="165" />
+          <img src=".github/assets/total_solved_69.svg" alt="Total Solved: 69 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>68</code></td>
+      <td align="center"><code>69</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -53,7 +53,7 @@
 | **Arrays** | `14` | `26` | `████████░░░░░░░` 53.8% | [View](#arrays) |
 | **Strings** | `10` | `22` | `███████░░░░░░░░` 45.5% | [View](#strings) |
 | **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
-| **Searching & Sorting** | `1` | `23` | `█░░░░░░░░░░░░░░` 4.3% | [View](#searching-sorting) |
+| **Searching & Sorting** | `2` | `23` | `█░░░░░░░░░░░░░░` 8.7% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
 | **Linked List** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#linked-list) |
 | **Stacks & Queues** | `0` | `27` | `░░░░░░░░░░░░░░░` 0.0% | [View](#stacks-queues) |
@@ -202,7 +202,7 @@
 </details>
 
 <details id="searching-sorting">
-<summary><h3>📁 Searching & Sorting — 1/23 Solved (4.3%)</h3></summary>
+<summary><h3>📁 Searching & Sorting — 2/23 Solved (8.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -221,7 +221,7 @@
 | ⬜ | 71 | [Radix Sort](https://www.geeksforgeeks.org/radix-sort/) | Amazon+ Microsoft | - | - |
 | ⬜ | 72 | [Product of Array except itself](https://www.geeksforgeeks.org/a-product-array-puzzle/) | Accolite Amazon D-E-Shaw Intuit Morgan Stanley Opera Microsoft Flipkart | - | - |
 | ⬜ | 73 | [Make all Array Elements Equal](https://www.geeksforgeeks.org/make-array-elements-equal-minimum-cost/) | Amazon | - | - |
-| ⬜ | 74 | [Check if Reversing a Sub Array Make the Array Sorted](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/) | Amazon | - | - |
+| ✅ | 74 | [Check if Reversing a Sub Array Make the Array Sorted](https://www.geeksforgeeks.org/check-reversing-sub-array-make-array-sorted/) | Amazon | - | [GFG](Geeks%20For%20Geeks/Check%20Sorted%20Array) |
 | ⬜ | 75 | [Find Four Elements that Sum to a Given Value](https://www.geeksforgeeks.org/find-four-elements-that-sum-to-a-given-value-set-2/) | Adobe Amazon Google Microsoft OYO Rooms | - | - |
 | ✅ | 76 | [Median of Two Sorted Array with Different Size](https://www.geeksforgeeks.org/median-of-two-sorted-arrays-of-different-sizes/) | Amazon Samsung Microsoft Google | - | [LeetCode](leetcode/4-median-of-two-sorted-arrays) |
 | ⬜ | 77 | [Median of Stream of Integers Running Integers](https://www.geeksforgeeks.org/median-of-stream-of-integers-running-integers/) | Amazon + Google | - | - |
