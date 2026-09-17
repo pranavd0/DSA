@@ -7,7 +7,7 @@
 - Runtime: 0.12 s
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/power-using-recursion/1
-- Synced: 2026-09-17T11:32:01.521Z
+- Synced: 2026-09-17T11:32:00.727Z
 
 ## Problem Description
 
