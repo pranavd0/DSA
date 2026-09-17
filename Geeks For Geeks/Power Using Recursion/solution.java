@@ -7,7 +7,7 @@
  * Topics: Recursion
  * Runtime: 0.12 s
  * Memory: N/A
- * Synced: 2026-09-17T11:32:06.954Z
+ * Synced: 2026-09-17T11:32:10.464Z
  */
 
 class Solution {
@@ -17,7 +17,7 @@ class Solution {
         // step 1
         //f(p)=f(p-1)*n
         
-        //step2 
+        //step2 base case
         if(p==0){
             return 1;
         }
