@@ -4,10 +4,10 @@
 - Language: Java
 - Difficulty: Easy
 - Topics: Recursion
-- Runtime: N/A
+- Runtime: 0.12 s
 - Memory: N/A
 - Problem URL: https://www.geeksforgeeks.org/problems/power-using-recursion/1
-- Synced: 2026-09-17T11:29:07.421Z
+- Synced: 2026-09-17T11:31:57.712Z
 
 ## Problem Description
 
