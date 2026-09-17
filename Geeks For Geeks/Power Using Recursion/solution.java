@@ -7,7 +7,7 @@
  * Topics: Recursion
  * Runtime: 0.12 s
  * Memory: N/A
- * Synced: 2026-09-17T11:32:10.464Z
+ * Synced: 2026-09-17T11:32:13.284Z
  */
 
 class Solution {
@@ -28,7 +28,7 @@ class Solution {
         //step 4 work
         int ans=fnm1*n;
         
-        //step5
+        //step5 ret
         return ans;
         
     }
