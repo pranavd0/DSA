@@ -7,7 +7,7 @@
  * Topics: Recursion
  * Runtime: 0.12 s
  * Memory: N/A
- * Synced: 2026-09-17T11:32:00.727Z
+ * Synced: 2026-09-17T11:32:08.568Z
  */
 
 class Solution {
@@ -17,15 +17,15 @@ class Solution {
         // step 1
         //f(p)=f(p-1)*n
         
-        //step2
+        //step2 base 
         if(p==0){
             return 1;
         }
         
-        //step 3 inner cal
+        //step 3 inner call
         int fnm1=recursivePower(n,p-1);
         
-        //step 4
+        //step 4 work
         int ans=fnm1*n;
         
         //step5
