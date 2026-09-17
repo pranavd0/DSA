@@ -7,7 +7,7 @@
  * Topics: Recursion
  * Runtime: 0.12 s
  * Memory: N/A
- * Synced: 2026-09-17T11:31:57.712Z
+ * Synced: 2026-09-17T11:32:01.521Z
  */
 
 class Solution {
@@ -22,7 +22,7 @@ class Solution {
             return 1;
         }
         
-        //step 3 
+        //step 3 inner call
         int fnm1=recursivePower(n,p-1);
         
         //step 4
