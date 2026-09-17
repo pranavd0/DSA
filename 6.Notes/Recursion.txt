@@ -1,0 +1,38 @@
+*Recursion*
+
+1. Recursion means : Dividing a problem into smaller instances of a similar problem
+2. we need two things for recursion:
+   1> Recursive function ( f(n) )
+   2> base case(Where recursion should stop)
+3. recursion works on:
+   1> Top to bottom approach (towards base case)
+   2> Bottom to up ( When base case is reached;=> to combine solutions step  by step)
+   
+   lets take one example:
+   F(n)=n*f(n-1)   => recursive function
+   F(0)=1          => base case
+   
+   lets take n=5:
+   
+   f(5)= 5 * f(4)
+         ⬇      ↑
+         4 * f(3)
+         ⬇      ↑
+         3 * f(2)
+         ⬇      ↑
+         2 * f(1)
+         ⬇      ↑
+         1 * f(0) -> base case
+4. Steps:
+   1> Define Base Case 
+   2> Works on each step (for this example we perform n*)
+   3> f(n-1) (inner call)
+   
+5. Most important point:
+	>If we want to execute our work on each step while going downward:
+	we will call the inner function at last ( as given in our steps)
+	
+	>but if we want to execute our work from last(means first we want to reach last and than want to perform work):
+	we will call function immideiately after base case before executing any work
+	
+	
