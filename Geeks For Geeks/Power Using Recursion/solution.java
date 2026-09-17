@@ -7,14 +7,14 @@
  * Topics: Recursion
  * Runtime: 0.12 s
  * Memory: N/A
- * Synced: 2026-09-17T11:32:14.082Z
+ * Synced: 2026-09-17T11:32:26.342Z
  */
 
 class Solution {
     public int recursivePower(int n, int p) {
         //bottom up approach
         
-        // step 1
+        // step 1 define relation/function
         //f(p)=f(p-1)*n
         
         //step2 base case
