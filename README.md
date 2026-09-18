@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>41</code></td>
+      <td align="center"><code>42</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>10.9%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.2%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_73.svg" alt="Total Solved: 73 Problems" width="165" />
+          <img src=".github/assets/total_solved_74.svg" alt="Total Solved: 74 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>73</code></td>
+      <td align="center"><code>74</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -63,7 +63,7 @@
 | **Heaps & Hashing** | `2` | `28` | `█░░░░░░░░░░░░░░` 7.1% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
-| **Dynamic Programming** | `1` | `54` | `░░░░░░░░░░░░░░░` 1.9% | [View](#dynamic-programming) |
+| **Dynamic Programming** | `2` | `54` | `█░░░░░░░░░░░░░░` 3.7% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `1` | `6` | `██░░░░░░░░░░░░░` 16.7% | [View](#segment-trees) |
 
@@ -553,7 +553,7 @@
 </details>
 
 <details id="dynamic-programming">
-<summary><h3>📁 Dynamic Programming — 1/54 Solved (1.9%)</h3></summary>
+<summary><h3>📁 Dynamic Programming — 2/54 Solved (3.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -561,7 +561,7 @@
 | ⬜ | 307 | [BBT counter](https://practice.geeksforgeeks.org/problems/bbt-counter4914/1) | Microsoft | - | - |
 | ⬜ | 308 | [Reach a given score](https://practice.geeksforgeeks.org/problems/reach-a-given-score-1587115621/1) | Samsung | - | - |
 | ⬜ | 309 | [Maximum difference of zeros and ones in binary string](https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1) | Ola | - | - |
-| ⬜ | 310 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Intuit | - | - |
+| ✅ | 310 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | Intuit | - | [LeetCode](leetcode/70-climbing-stairs) |
 | ⬜ | 311 | [Permutation Coefficient](https://www.geeksforgeeks.org/permutation-coefficient/) | Amazon | - | - |
 | ⬜ | 312 | [Longest Repeating Subsequence](https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence2004/1) | Google + Amazon | - | - |
 | ⬜ | 313 | [Pairs with specific difference](https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference1533/1) | Ola | - | - |
