@@ -1,0 +1,16 @@
+{
+  "problemTitle": "Ways To Tile A Floor",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1",
+  "platform": "GeeksforGeeks",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "0.15 s",
+  "memoryUsage": "N/A",
+  "tags": [
+    "Fibonacci",
+    "Dynamic Programming",
+    "Recursion"
+  ],
+  "submissionId": "ways-to-tile-a-floor5836",
+  "submissionTimestamp": "2026-09-18T20:41:08.000Z"
+}
