@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>42</code></td>
+      <td align="center"><code>43</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.2%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.5%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_83.svg" alt="Total Solved: 83 Problems" width="165" />
+          <img src=".github/assets/total_solved_84.svg" alt="Total Solved: 84 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>83</code></td>
+      <td align="center"><code>84</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -63,7 +63,7 @@
 | **Heaps & Hashing** | `2` | `28` | `█░░░░░░░░░░░░░░` 7.1% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
-| **Dynamic Programming** | `2` | `54` | `█░░░░░░░░░░░░░░` 3.7% | [View](#dynamic-programming) |
+| **Dynamic Programming** | `3` | `54` | `█░░░░░░░░░░░░░░` 5.6% | [View](#dynamic-programming) |
 | **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `1` | `6` | `██░░░░░░░░░░░░░` 16.7% | [View](#segment-trees) |
 
@@ -111,7 +111,7 @@
 | 33 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
 | 34 | **GFG** | [1 to n Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/1%20to%20n%20Without%20Loop) |
 | 35 | **GFG** | [First Occurrence in Sorted](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/First%20Occurrence%20in%20Sorted) |
-| 36 | **GFG** | Friends Pairing Problem | - | [Solution](Geeks%20For%20Geeks/Friends%20Pairing%20Problem) |
+| 36 | **GFG** | [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Friends%20Pairing%20Problem) |
 | 37 | **GFG** | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Nth%20Fibonacci%20Using%20Recursion) |
 | 38 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
 | 39 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
@@ -562,7 +562,7 @@
 </details>
 
 <details id="dynamic-programming">
-<summary><h3>📁 Dynamic Programming — 2/54 Solved (3.7%)</h3></summary>
+<summary><h3>📁 Dynamic Programming — 3/54 Solved (5.6%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -580,7 +580,7 @@
 | ⬜ | 317 | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | Siemens + Amazon + Google | - | - |
 | ⬜ | 318 | [Word Break](https://leetcode.com/problems/word-break/) | Amazon + Google + Microsoft + Walmart + Apple + IBM | - | - |
 | ⬜ | 319 | [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) | Adobe Amazon Microsoft | - | - |
-| ⬜ | 320 | [House Robber](https://leetcode.com/problems/house-robber/) | Apple + Uber | - | - |
+| ✅ | 320 | [House Robber](https://leetcode.com/problems/house-robber/) | Apple + Uber | - | [LeetCode](leetcode/198-house-robber) |
 | ⬜ | 321 | [Houe Robber 2](https://leetcode.com/problems/house-robber-ii/) | Arrays Dynamic Programming | - | - |
 | ⬜ | 322 | [Decode Ways](https://leetcode.com/problems/decode-ways/) | Adobe + Uber | - | - |
 | ⬜ | 323 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | Google + Microsoft | - | - |
