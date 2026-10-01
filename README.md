@@ -20,24 +20,24 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>43</code></td>
+      <td align="center"><code>44</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.5%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.7%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_85.svg" alt="Total Solved: 85 Problems" width="165" />
+          <img src=".github/assets/total_solved_87.svg" alt="Total Solved: 87 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>42</code></td>
+      <td align="center"><code>43</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>85</code></td>
+      <td align="center"><code>87</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -55,7 +55,7 @@
 | **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `2` | `23` | `█░░░░░░░░░░░░░░` 8.7% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
-| **Linked List** | `8` | `26` | `█████░░░░░░░░░░` 30.8% | [View](#linked-list) |
+| **Linked List** | `9` | `26` | `█████░░░░░░░░░░` 34.6% | [View](#linked-list) |
 | **Stacks & Queues** | `0` | `27` | `░░░░░░░░░░░░░░░` 0.0% | [View](#stacks-queues) |
 | **Greedy** | `0` | `22` | `░░░░░░░░░░░░░░░` 0.0% | [View](#greedy) |
 | **Binary Trees** | `0` | `33` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-trees) |
@@ -70,54 +70,55 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (42 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (43 Extra Solved)</h3></summary>
 
-> Additional 42 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 43 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |
 | :---: | :---: | :--- | :---: | :--- |
 | 1 | **LeetCode** | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢&nbsp;Easy | [Solution](leetcode/1013-fibonacci-number) |
-| 2 | **LeetCode** | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢&nbsp;Easy | [Solution](leetcode/1480-running-sum-of-1d-array) |
-| 3 | **LeetCode** | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡&nbsp;Medium | [Solution](leetcode/1501-circle-and-rectangle-overlapping) |
-| 4 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 🟡&nbsp;Medium | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
-| 5 | **LeetCode** | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡&nbsp;Medium | [Solution](leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
-| 6 | **LeetCode** | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡&nbsp;Medium | [Solution](leetcode/1776-minimum-operations-to-reduce-x-to-zero) |
-| 7 | **LeetCode** | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 🟢&nbsp;Easy | [Solution](leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
-| 8 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢&nbsp;Easy | [Solution](leetcode/202-happy-number) |
-| 9 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/203-remove-linked-list-elements) |
-| 10 | **LeetCode** | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡&nbsp;Medium | [Solution](leetcode/2265-count-nodes-equal-to-average-of-subtree) |
-| 11 | **LeetCode** | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/28-find-the-index-of-the-first-occurrence-in-a-string) |
-| 12 | **LeetCode** | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/3159-find-occurrences-of-an-element-in-an-array) |
-| 13 | **LeetCode** | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢&nbsp;Easy | [Solution](leetcode/3799-unique-3-digit-even-numbers) |
-| 14 | **LeetCode** | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/3811-reverse-degree-of-a-string) |
-| 15 | **LeetCode** | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡&nbsp;Medium | [Solution](leetcode/3831-find-x-value-of-array-i) |
-| 16 | **LeetCode** | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢&nbsp;Easy | [Solution](leetcode/3869-smallest-index-with-digit-sum-equal-to-index) |
-| 17 | **LeetCode** | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢&nbsp;Easy | [Solution](leetcode/4245-count-commas-in-range) |
-| 18 | **LeetCode** | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡&nbsp;Medium | [Solution](leetcode/4248-count-commas-in-range-ii) |
-| 19 | **LeetCode** | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡&nbsp;Medium | [Solution](leetcode/50-powx-n) |
-| 20 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡&nbsp;Medium | [Solution](leetcode/525-contiguous-array) |
-| 21 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡&nbsp;Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
-| 22 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡&nbsp;Medium | [Solution](leetcode/6-zigzag-conversion) |
-| 23 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢&nbsp;Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
-| 24 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢&nbsp;Easy | [Solution](leetcode/645-set-mismatch) |
-| 25 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡&nbsp;Medium | [Solution](leetcode/707-design-linked-list) |
-| 26 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢&nbsp;Easy | [Solution](leetcode/724-find-pivot-index) |
-| 27 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡&nbsp;Medium | [Solution](leetcode/739-daily-temperatures) |
-| 28 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡&nbsp;Medium | [Solution](leetcode/78-subsets) |
-| 29 | **LeetCode** | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢&nbsp;Easy | [Solution](leetcode/812-rotate-string) |
-| 30 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢&nbsp;Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
-| 31 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡&nbsp;Medium | [Solution](leetcode/901-advantage-shuffle) |
-| 32 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢&nbsp;Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
-| 33 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/912-sort-an-array) |
-| 34 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
-| 35 | **GFG** | [1 to n Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/1%20to%20n%20Without%20Loop) |
-| 36 | **GFG** | [First Occurrence in Sorted](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/First%20Occurrence%20in%20Sorted) |
-| 37 | **GFG** | [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Friends%20Pairing%20Problem) |
-| 38 | **GFG** | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Nth%20Fibonacci%20Using%20Recursion) |
-| 39 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
-| 40 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
-| 41 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
-| 42 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
+| 2 | **LeetCode** | [Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings/) | 🟡&nbsp;Medium | [Solution](leetcode/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| 3 | **LeetCode** | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | 🟢&nbsp;Easy | [Solution](leetcode/1480-running-sum-of-1d-array) |
+| 4 | **LeetCode** | [Circle and Rectangle Overlapping](https://leetcode.com/problems/circle-and-rectangle-overlapping/) | 🟡&nbsp;Medium | [Solution](leetcode/1501-circle-and-rectangle-overlapping) |
+| 5 | **LeetCode** | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | 🟡&nbsp;Medium | [Solution](leetcode/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| 6 | **LeetCode** | [Number of Sets of K Non-Overlapping Line Segments](https://leetcode.com/problems/number-of-sets-of-k-non-overlapping-line-segments/) | 🟡&nbsp;Medium | [Solution](leetcode/1725-number-of-sets-of-k-non-overlapping-line-segments) |
+| 7 | **LeetCode** | [Minimum Operations to Reduce X to Zero](https://leetcode.com/problems/minimum-operations-to-reduce-x-to-zero/) | 🟡&nbsp;Medium | [Solution](leetcode/1776-minimum-operations-to-reduce-x-to-zero) |
+| 8 | **LeetCode** | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 🟢&nbsp;Easy | [Solution](leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| 9 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢&nbsp;Easy | [Solution](leetcode/202-happy-number) |
+| 10 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/203-remove-linked-list-elements) |
+| 11 | **LeetCode** | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡&nbsp;Medium | [Solution](leetcode/2265-count-nodes-equal-to-average-of-subtree) |
+| 12 | **LeetCode** | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/28-find-the-index-of-the-first-occurrence-in-a-string) |
+| 13 | **LeetCode** | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/3159-find-occurrences-of-an-element-in-an-array) |
+| 14 | **LeetCode** | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢&nbsp;Easy | [Solution](leetcode/3799-unique-3-digit-even-numbers) |
+| 15 | **LeetCode** | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/3811-reverse-degree-of-a-string) |
+| 16 | **LeetCode** | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡&nbsp;Medium | [Solution](leetcode/3831-find-x-value-of-array-i) |
+| 17 | **LeetCode** | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢&nbsp;Easy | [Solution](leetcode/3869-smallest-index-with-digit-sum-equal-to-index) |
+| 18 | **LeetCode** | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢&nbsp;Easy | [Solution](leetcode/4245-count-commas-in-range) |
+| 19 | **LeetCode** | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡&nbsp;Medium | [Solution](leetcode/4248-count-commas-in-range-ii) |
+| 20 | **LeetCode** | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡&nbsp;Medium | [Solution](leetcode/50-powx-n) |
+| 21 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡&nbsp;Medium | [Solution](leetcode/525-contiguous-array) |
+| 22 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡&nbsp;Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
+| 23 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡&nbsp;Medium | [Solution](leetcode/6-zigzag-conversion) |
+| 24 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢&nbsp;Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
+| 25 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢&nbsp;Easy | [Solution](leetcode/645-set-mismatch) |
+| 26 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡&nbsp;Medium | [Solution](leetcode/707-design-linked-list) |
+| 27 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢&nbsp;Easy | [Solution](leetcode/724-find-pivot-index) |
+| 28 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡&nbsp;Medium | [Solution](leetcode/739-daily-temperatures) |
+| 29 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡&nbsp;Medium | [Solution](leetcode/78-subsets) |
+| 30 | **LeetCode** | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢&nbsp;Easy | [Solution](leetcode/812-rotate-string) |
+| 31 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢&nbsp;Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
+| 32 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡&nbsp;Medium | [Solution](leetcode/901-advantage-shuffle) |
+| 33 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢&nbsp;Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
+| 34 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/912-sort-an-array) |
+| 35 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
+| 36 | **GFG** | [1 to n Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/1%20to%20n%20Without%20Loop) |
+| 37 | **GFG** | [First Occurrence in Sorted](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/First%20Occurrence%20in%20Sorted) |
+| 38 | **GFG** | [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Friends%20Pairing%20Problem) |
+| 39 | **GFG** | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Nth%20Fibonacci%20Using%20Recursion) |
+| 40 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
+| 41 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 42 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
+| 43 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
 
 [⬆ Back to Summary](#-topic-summary)
 
@@ -280,13 +281,13 @@
 </details>
 
 <details id="linked-list">
-<summary><h3>📁 Linked List — 8/26 Solved (30.8%)</h3></summary>
+<summary><h3>📁 Linked List — 9/26 Solved (34.6%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | ✅ | 103 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Sprinklr | - | [LeetCode](leetcode/206-reverse-linked-list) |
 | ✅ | 104 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Accolite Amazon D-E-Shaw Hike Lybrate Mahindra Comviva MakeMyTrip MAQ Software OYO Rooms Paytm Qualcomm Samsung SAP Labs Snapdeal Veritas VMWare Walmart Adobe | - | [LeetCode](leetcode/141-linked-list-cycle) |
-| ⬜ | 105 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Accolite Amazon Belzabar Brocade FactSet Flipkart MakeMyTrip Microsoft OATS Systems Oracle Samsung Synopsys Zoho | - | - |
+| ✅ | 105 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Accolite Amazon Belzabar Brocade FactSet Flipkart MakeMyTrip Microsoft OATS Systems Oracle Samsung Synopsys Zoho | - | [LeetCode](leetcode/21-merge-two-sorted-lists) |
 | ✅ | 106 | [Delete without Head node](https://www.geeksforgeeks.org/given-only-a-pointer-to-a-node-to-be-deleted-in-a-singly-linked-list-how-do-you-delete-it/) | Amazon Goldman Sachs Kritikal Solutions Microsoft Samsung Visa | - | [LeetCode](leetcode/237-delete-node-in-a-linked-list) \| [GFG](Geeks%20For%20Geeks/Delete%20Node%20Without%20Linked%20List%20Head) |
 | ✅ | 107 | [Remove duplicates from an unsorted linked list](https://www.geeksforgeeks.org/remove-duplicates-from-an-unsorted-linked-list/) | Amazon Intuit | - | [GFG](Geeks%20For%20Geeks/Remove%20Duplicates%20from%20Linked%20List) |
 | ⬜ | 108 | [Sort a linked list of 0s-1s-or-2s](https://www.geeksforgeeks.org/sort-a-linked-list-of-0s-1s-or-2s/) | Microsoft Amazon MakeMyTrip | - | - |
