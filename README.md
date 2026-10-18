@@ -25,19 +25,19 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.7%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_90.svg" alt="Total Solved: 90 Problems" width="165" />
+          <img src=".github/assets/total_solved_91.svg" alt="Total Solved: 91 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>46</code></td>
+      <td align="center"><code>47</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>90</code></td>
+      <td align="center"><code>91</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (46 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (47 Extra Solved)</h3></summary>
 
-> Additional 46 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 47 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -121,7 +121,8 @@
 | 43 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
 | 44 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
 | 45 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
-| 46 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
+| 46 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
+| 47 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
 
 [⬆ Back to Summary](#-topic-summary)
 
