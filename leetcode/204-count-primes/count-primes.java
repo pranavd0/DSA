@@ -5,7 +5,7 @@ class Solution {
         for(int i = 1; i <= n; i++)
         {
             int j =0;
-            for(j = 1; j <= i/2; j++)
+            for(j = 2; j <= i/2; j++)
             {
                 if(i % j == 0)
                 {
