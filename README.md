@@ -87,7 +87,7 @@
 | 9 | **LeetCode** | [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/) | 🟢&nbsp;Easy | [Solution](leetcode/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | 10 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢&nbsp;Easy | [Solution](leetcode/202-happy-number) |
 | 11 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/203-remove-linked-list-elements) |
-| 12 | **LeetCode** | [Count Primes](https://leetcode.com/problems/count-primes/) | 🟡&nbsp;Medium | [Solution](leetcode/204-count-primes) |
+| 12 | **LeetCode** | [1](https://leetcode.com/problems/count-primes/) | 🟡&nbsp;Medium | [Solution](leetcode/204-count-primes) |
 | 13 | **LeetCode** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡&nbsp;Medium | [Solution](leetcode/22-generate-parentheses) |
 | 14 | **LeetCode** | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡&nbsp;Medium | [Solution](leetcode/2265-count-nodes-equal-to-average-of-subtree) |
 | 15 | **LeetCode** | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | 🟢&nbsp;Easy | [Solution](leetcode/2520-count-the-digits-that-divide-a-number) |
