@@ -1,0 +1,22 @@
+1class Solution {
+2    public int countPrimes(int n) 
+3    {
+4        int ip= 0;
+5        for(int i = 1; i < n; i++)
+6        {
+7            int j =0;
+8            for(j = 2; j <= i/2; j++)
+9            {
+10                if(i % j == 0)
+11                {
+12                    break;
+13                }
+14            }
+15            if(j == i/2 + 1)
+16            {
+17                ip++;
+18            }
+19        }  
+20        return ip;  
+21    }
+22}
