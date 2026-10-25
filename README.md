@@ -25,19 +25,19 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.7%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_103.svg" alt="Total Solved: 103 Problems" width="165" />
+          <img src=".github/assets/total_solved_104.svg" alt="Total Solved: 104 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>59</code></td>
+      <td align="center"><code>60</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>103</code></td>
+      <td align="center"><code>104</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (59 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (60 Extra Solved)</h3></summary>
 
-> Additional 59 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 60 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -132,9 +132,10 @@
 | 54 | **GFG** | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Prime%20Number) |
 | 55 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
 | 56 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
-| 57 | **GFG** | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers) |
-| 58 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
-| 59 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
+| 57 | **GFG** | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20Of%20Digits) |
+| 58 | **GFG** | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers) |
+| 59 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
+| 60 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
 
 [⬆ Back to Summary](#-topic-summary)
 
