@@ -12,19 +12,18 @@ var reverse = function(x) {
         x = Math.abs(x);
     }
 
-    while (x != 0) {
+    while (x > 0) {
         iDigit = x % 10;
-        iRev = iRev * 10 + iDigit;
-        x = Math.trunc(x / 10);
+        iRev = (iRev * 10) + iDigit;
+        x = Math.floor(x / 10);
     }
 
-    if (bRet) {
-        iRev = -iRev;
-    }
-
-    if (iRev < -2147483648 || iRev > 2147483647) {
+    if (iRev > Math.pow(2, 31) - 1) {
         return 0;
     }
 
+    if (bRet == true) {
+        return -iRev;
+    }
     return iRev;
 };
