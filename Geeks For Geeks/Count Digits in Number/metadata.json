@@ -1,0 +1,14 @@
+{
+  "problemTitle": "Count Digits in Number",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1",
+  "platform": "GeeksforGeeks",
+  "difficulty": "Easy",
+  "language": "JavaScript",
+  "runtime": "0.11 s",
+  "memoryUsage": "N/A",
+  "tags": [
+    "Recursion"
+  ],
+  "submissionId": "8pbopo",
+  "submissionTimestamp": "2026-10-25T05:30:53.588Z"
+}
