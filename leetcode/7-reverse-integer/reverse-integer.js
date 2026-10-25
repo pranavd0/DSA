@@ -3,6 +3,11 @@
  * @return {number}
  */
 var reverse = function(x) {
+    if(x<-2147483648 || x > 2147483647)
+    {
+        return 0
+    }
+    
     let iRev = 0
     let iDigit = 0
     let bRet = false
