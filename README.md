@@ -164,7 +164,7 @@
 | ✅ | 4 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Amazon Interview Qs | - | [LeetCode](leetcode/217-contains-duplicate) |
 | ✅ | 5 | [Chocolate Distribution Problem](https://www.geeksforgeeks.org/chocolate-distribution-problem/) | Amazon Interview Qs | - | [GFG](Geeks%20For%20Geeks/Chocolate%20Distribution%20Problem) |
 | ✅ | 6 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Microsoft Google Adobe Amazon D-E-Shaw Flipkart Hike Intuit MakeMyTrip Paytm | - | [LeetCode](leetcode/33-search-in-rotated-sorted-array) |
-| ✅ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | [LeetCode](leetcode/31-next-permutation) |
+| ✅ | 7 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Uber + Goldman Sachs + Adobe Interview Qs | - | [LeetCode](leetcode/31-next-permutation) \| [GFG](Geeks%20For%20Geeks/Next%20Permutation) |
 | ✅ | 8 | [Best time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Amazon D-E-Shaw Directi Flipkart Goldman Sachs Intuit MakeMyTrip Microsoft Ola Cabs Oracle Paytm Pubmatic Quikr Salesforce Sapient Swiggy Walmart Media.net Google | - | [LeetCode](leetcode/121-best-time-to-buy-and-sell-stock) |
 | ✅ | 9 | [Repeat and Missing Number Array](https://www.interviewbit.com/problems/repeat-and-missing-number-array/) | Amazon Interview Qs | - | [InterviewBit](InterviewBit/Repeat%20and%20Missing%20Number%20Array) |
 | ✅ | 10 | [Kth-Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Amazon Microsoft Walmart Adobe | - | [LeetCode](leetcode/215-kth-largest-element-in-an-array) |
@@ -206,7 +206,7 @@
 | ✅ | 36 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | Samsung + Adobe + Amazon Interview Qs | - | [LeetCode](leetcode/49-group-anagrams) |
 | ✅ | 37 | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | Microsoft + Google + Samsung + Visa IQ | - | [LeetCode](leetcode/5-longest-palindromic-substring) |
 | ✅ | 38 | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | Microsoft IQ | - | [LeetCode](leetcode/647-palindromic-substrings) |
-| ✅ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | [LeetCode](leetcode/31-next-permutation) |
+| ✅ | 39 | [Next Permutation](https://practice.geeksforgeeks.org/problems/next-permutation5226/1) | Adobe + Goldman Sachs + Uber | - | [LeetCode](leetcode/31-next-permutation) \| [GFG](Geeks%20For%20Geeks/Next%20Permutation) |
 | ⬜ | 40 | [Count Palindromic Subsequences](https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1) | Myntra Interview Qs | - | - |
 | ⬜ | 41 | [Smallest Window in a String Containing all the Characters of Another String](https://practice.geeksforgeeks.org/problems/smallest-window-in-a-string-containing-all-the-characters-of-another-string-1587115621/1) | Microsoft + Amazon IQ | - | - |
 | ⬜ | 42 | [Wildcard String Matching](https://practice.geeksforgeeks.org/problems/wildcard-string-matching1126/1) | Microsoft + Amazon + Ola IQ | - | - |
