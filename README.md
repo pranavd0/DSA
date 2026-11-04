@@ -25,19 +25,19 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>12.8%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_116.svg" alt="Total Solved: 116 Problems" width="165" />
+          <img src=".github/assets/total_solved_117.svg" alt="Total Solved: 117 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>68</code></td>
+      <td align="center"><code>69</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>116</code></td>
+      <td align="center"><code>117</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (68 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (69 Extra Solved)</h3></summary>
 
-> Additional 68 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 69 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -134,16 +134,17 @@
 | 56 | **GFG** | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Nth%20Fibonacci%20Using%20Recursion) |
 | 57 | **GFG** | [Odd or Even](https://www.geeksforgeeks.org/problems/odd-or-even3618/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Odd%20or%20Even) |
 | 58 | **GFG** | [Palindrome Number](https://www.geeksforgeeks.org/problems/palindrome0746/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Palindrome%20Number) |
-| 59 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
-| 60 | **GFG** | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Prime%20Number) |
-| 61 | **GFG** | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Print%20GFG%20n%20times) |
-| 62 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
-| 63 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
-| 64 | **GFG** | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20Of%20Digits) |
-| 65 | **GFG** | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers) |
-| 66 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
-| 67 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
-| 68 | **GFG** | [k Largest Elements](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/k%20Largest%20Elements) |
+| 59 | **GFG** | [Permute Arrays for Sum Threshold](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Permute%20Arrays%20for%20Sum%20Threshold) |
+| 60 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
+| 61 | **GFG** | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Prime%20Number) |
+| 62 | **GFG** | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Print%20GFG%20n%20times) |
+| 63 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 64 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
+| 65 | **GFG** | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20Of%20Digits) |
+| 66 | **GFG** | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers) |
+| 67 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
+| 68 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
+| 69 | **GFG** | [k Largest Elements](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/k%20Largest%20Elements) |
 
 [⬆ Back to Summary](#-topic-summary)
 
