@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>47</code></td>
+      <td align="center"><code>48</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>12.5%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>12.8%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_115.svg" alt="Total Solved: 115 Problems" width="165" />
+          <img src=".github/assets/total_solved_116.svg" alt="Total Solved: 116 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>115</code></td>
+      <td align="center"><code>116</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -60,7 +60,7 @@
 | **Greedy** | `0` | `22` | `░░░░░░░░░░░░░░░` 0.0% | [View](#greedy) |
 | **Binary Trees** | `0` | `33` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-trees) |
 | **Binary Search Trees** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-search-trees) |
-| **Heaps & Hashing** | `3` | `28` | `██░░░░░░░░░░░░░` 10.7% | [View](#heaps-hashing) |
+| **Heaps & Hashing** | `4` | `28` | `██░░░░░░░░░░░░░` 14.3% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
 | **Dynamic Programming** | `3` | `54` | `█░░░░░░░░░░░░░░` 5.6% | [View](#dynamic-programming) |
@@ -485,12 +485,12 @@
 </details>
 
 <details id="heaps-hashing">
-<summary><h3>📁 Heaps & Hashing — 3/28 Solved (10.7%)</h3></summary>
+<summary><h3>📁 Heaps & Hashing — 4/28 Solved (14.3%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
 | ⬜ | 232 | [Choose k array elements such that difference of maximum and minimum is minimized](https://www.geeksforgeeks.org/k-numbers-difference-maximum-minimum-k-number-minimized/) | - | - | - |
-| ⬜ | 233 | [Heap Sort](https://www.geeksforgeeks.org/heap-sort/) | Adobe | - | - |
+| ✅ | 233 | [Heap Sort](https://www.geeksforgeeks.org/heap-sort/) | Adobe | - | [GFG](Geeks%20For%20Geeks/Heap%20Sort) |
 | ✅ | 234 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Amazon Microsoft | - | [LeetCode](leetcode/347-top-k-frequent-elements) |
 | ⬜ | 235 | [k largest elements in an array](https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
 | ✅ | 236 | [Next Greater Element](https://www.geeksforgeeks.org/next-greater-element/) | Amazon + Microsoft + Flipkart + Adobe | - | [GFG](Geeks%20For%20Geeks/Next%20Greater%20Element) |
