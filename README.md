@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>44</code></td>
+      <td align="center"><code>45</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>11.7%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>12.0%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_110.svg" alt="Total Solved: 110 Problems" width="165" />
+          <img src=".github/assets/total_solved_111.svg" alt="Total Solved: 111 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>110</code></td>
+      <td align="center"><code>111</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -64,7 +64,7 @@
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
 | **Dynamic Programming** | `3` | `54` | `█░░░░░░░░░░░░░░` 5.6% | [View](#dynamic-programming) |
-| **Bit Manipulation** | `0` | `10` | `░░░░░░░░░░░░░░░` 0.0% | [View](#bit-manipulation) |
+| **Bit Manipulation** | `1` | `10` | `██░░░░░░░░░░░░░` 10.0% | [View](#bit-manipulation) |
 | **Segment Trees** | `1` | `6` | `██░░░░░░░░░░░░░` 16.7% | [View](#segment-trees) |
 
 ---
@@ -651,11 +651,11 @@
 </details>
 
 <details id="bit-manipulation">
-<summary><h3>📁 Bit Manipulation — 0/10 Solved (0.0%)</h3></summary>
+<summary><h3>📁 Bit Manipulation — 1/10 Solved (10.0%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
-| ⬜ | 360 | [Count set bits in an integer](https://practice.geeksforgeeks.org/problems/set-bits0143/1) | Adobe Apple | - | - |
+| ✅ | 360 | [Count set bits in an integer](https://practice.geeksforgeeks.org/problems/set-bits0143/1) | Adobe Apple | - | [GFG](Geeks%20For%20Geeks/Count%20Set%20Bits) |
 | ⬜ | 361 | [Find the two non-repeating elements in an array of repeating elements](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1) | Accolite Amazon FactSet Google MakeMyTrip Microsoft Qualcomm Samsung | - | - |
 | ⬜ | 362 | [Program to find whether a no is power of two](https://practice.geeksforgeeks.org/problems/power-of-2/0) | Adobe | - | - |
 | ⬜ | 363 | [Find position of the only set bit](https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1) | Microsoft | - | - |
