@@ -1,0 +1,21 @@
+{
+  "problemTitle": "k Largest Elements",
+  "problemUrl": "https://www.geeksforgeeks.org/problems/k-largest-elements4206/1",
+  "platform": "GeeksforGeeks",
+  "difficulty": "Medium",
+  "language": "Java",
+  "runtime": "N/A",
+  "memoryUsage": "N/A",
+  "tags": [
+    "Amazon",
+    "Microsoft",
+    "Samsung",
+    "Walmart",
+    "Google",
+    "Arrays",
+    "Sorting",
+    "Heap"
+  ],
+  "submissionId": "14pazl",
+  "submissionTimestamp": "2026-11-04T05:09:59.526Z"
+}
