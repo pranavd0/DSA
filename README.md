@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>45</code></td>
+      <td align="center"><code>47</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>12.0%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>12.5%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_112.svg" alt="Total Solved: 112 Problems" width="165" />
+          <img src=".github/assets/total_solved_114.svg" alt="Total Solved: 114 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>112</code></td>
+      <td align="center"><code>114</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -56,11 +56,11 @@
 | **Searching & Sorting** | `2` | `23` | `█░░░░░░░░░░░░░░` 8.7% | [View](#searching-sorting) |
 | **Backtracking** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#backtracking) |
 | **Linked List** | `9` | `26` | `█████░░░░░░░░░░` 34.6% | [View](#linked-list) |
-| **Stacks & Queues** | `0` | `27` | `░░░░░░░░░░░░░░░` 0.0% | [View](#stacks-queues) |
+| **Stacks & Queues** | `1` | `27` | `█░░░░░░░░░░░░░░` 3.7% | [View](#stacks-queues) |
 | **Greedy** | `0` | `22` | `░░░░░░░░░░░░░░░` 0.0% | [View](#greedy) |
 | **Binary Trees** | `0` | `33` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-trees) |
 | **Binary Search Trees** | `0` | `21` | `░░░░░░░░░░░░░░░` 0.0% | [View](#binary-search-trees) |
-| **Heaps & Hashing** | `2` | `28` | `█░░░░░░░░░░░░░░` 7.1% | [View](#heaps-hashing) |
+| **Heaps & Hashing** | `3` | `28` | `██░░░░░░░░░░░░░` 10.7% | [View](#heaps-hashing) |
 | **Graphs** | `0` | `40` | `░░░░░░░░░░░░░░░` 0.0% | [View](#graphs) |
 | **Tries** | `0` | `6` | `░░░░░░░░░░░░░░░` 0.0% | [View](#tries) |
 | **Dynamic Programming** | `3` | `54` | `█░░░░░░░░░░░░░░` 5.6% | [View](#dynamic-programming) |
@@ -341,7 +341,7 @@
 </details>
 
 <details id="stacks-queues">
-<summary><h3>📁 Stacks & Queues — 0/27 Solved (0.0%)</h3></summary>
+<summary><h3>📁 Stacks & Queues — 1/27 Solved (3.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -361,7 +361,7 @@
 | ⬜ | 142 | [Sort a stack using Recursion](https://www.geeksforgeeks.org/sort-a-stack-using-recursion/) | Amazon Goldman Sachs IBM Intuit Kuliza Yahoo Microsoft | - | - |
 | ⬜ | 143 | [Queue based approach for first non repeating character in a stream](https://www.geeksforgeeks.org/queue-based-approach-for-first-non-repeating-character-in-a-stream/) | Microsoft Flipkart | - | - |
 | ⬜ | 144 | [The Celebrity Problem](https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1) | Google + Visa + Apple | - | - |
-| ⬜ | 145 | [Next larger Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Visa | - | - |
+| ✅ | 145 | [Next larger Element](https://practice.geeksforgeeks.org/problems/next-larger-element-1587115620/1) | Visa | - | [GFG](Geeks%20For%20Geeks/Next%20Greater%20Element) |
 | ⬜ | 146 | [Distance of nearest cell](https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1-1587115620/1) | Flipkar + Facebook | - | - |
 | ⬜ | 147 | [Rotten-oranges](https://practice.geeksforgeeks.org/problems/rotten-oranges2536/1) | Facebook | - | - |
 | ⬜ | 148 | [Next smaller element](https://www.geeksforgeeks.org/next-smaller-element/) | Codenation | - | - |
@@ -484,7 +484,7 @@
 </details>
 
 <details id="heaps-hashing">
-<summary><h3>📁 Heaps & Hashing — 2/28 Solved (7.1%)</h3></summary>
+<summary><h3>📁 Heaps & Hashing — 3/28 Solved (10.7%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -492,7 +492,7 @@
 | ⬜ | 233 | [Heap Sort](https://www.geeksforgeeks.org/heap-sort/) | Adobe | - | - |
 | ✅ | 234 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | Amazon Microsoft | - | [LeetCode](leetcode/347-top-k-frequent-elements) |
 | ⬜ | 235 | [k largest elements in an array](https://www.geeksforgeeks.org/k-largestor-smallest-elements-in-an-array/) | Amazon Microsoft Walmart Adobe | - | - |
-| ⬜ | 236 | [Next Greater Element](https://www.geeksforgeeks.org/next-greater-element/) | Amazon + Microsoft + Flipkart + Adobe | - | - |
+| ✅ | 236 | [Next Greater Element](https://www.geeksforgeeks.org/next-greater-element/) | Amazon + Microsoft + Flipkart + Adobe | - | [GFG](Geeks%20For%20Geeks/Next%20Greater%20Element) |
 | ⬜ | 237 | [K’th Smallest/Largest Element in Unsorted Array](https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
 | ⬜ | 238 | [Find the maximum repeating number in O(n) time and O(1) extra space](https://www.geeksforgeeks.org/find-the-maximum-repeating-number-in-ok-time/) | Accolite Amazon | - | - |
 | ⬜ | 239 | [K-th smallest element after removing some integers from natural numbers](https://www.geeksforgeeks.org/k-th-smallest-element-removing-integers-natural-numbers/) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | - |
