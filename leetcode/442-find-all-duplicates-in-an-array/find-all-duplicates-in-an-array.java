@@ -1,18 +1,16 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        int freq[]= new int[nums.length+1];
-
-        for(int i =0; i< nums.length; i++)
-        {
-            freq[nums[i]]++;
-        }
         ArrayList<Integer> res = new ArrayList<>();
 
-        for(int i =1; i<freq.length; i++)
+        for(int i =0; i<nums.length; i++)
         {
-            if(freq[i] == 2)
+            if(nums[Math.abs(nums[i])-1]<0)
             {
-                res.add(i);
+                res.add(Math.abs(nums[i]));
+            }
+            else
+            {
+                nums[Math.abs(nums[i])-1]=-nums[Math.abs(nums[i])-1];
             }
         }
 
