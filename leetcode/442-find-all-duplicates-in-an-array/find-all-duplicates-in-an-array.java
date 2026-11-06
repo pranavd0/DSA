@@ -1,5 +1,7 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
+        //for every element marks the element -1 th index elment as negative 
+        //element -1 th index elment is already negative than that elment is duplicate 
         ArrayList<Integer> res = new ArrayList<>();
 
         for(int i =0; i<nums.length; i++)
