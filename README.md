@@ -20,12 +20,12 @@
   <tbody>
     <tr>
       <td><b>🎯 Apna College Sheet</b></td>
-      <td align="center"><code>49</code></td>
+      <td align="center"><code>50</code></td>
       <td align="center"><code>375</code></td>
-      <td><code>██░░░░░░░░░░░░░░░░</code> <b>13.1%</b></td>
+      <td><code>██░░░░░░░░░░░░░░░░</code> <b>13.3%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_124.svg" alt="Total Solved: 124 Problems" width="165" />
+          <img src=".github/assets/total_solved_125.svg" alt="Total Solved: 125 Problems" width="165" />
         </a>
       </td>
     </tr>
@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>124</code></td>
+      <td align="center"><code>125</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -50,7 +50,7 @@
 
 | Topic | Solved | Total | Progress | Link |
 | :--- | :---: | :---: | :--- | :---: |
-| **Arrays** | `15` | `26` | `█████████░░░░░░` 57.7% | [View](#arrays) |
+| **Arrays** | `16` | `26` | `█████████░░░░░░` 61.5% | [View](#arrays) |
 | **Strings** | `10` | `22` | `███████░░░░░░░░` 45.5% | [View](#strings) |
 | **2D Arrays** | `3` | `10` | `████░░░░░░░░░░░` 30.0% | [View](#2d-arrays) |
 | **Searching & Sorting** | `2` | `23` | `█░░░░░░░░░░░░░░` 8.7% | [View](#searching-sorting) |
@@ -161,7 +161,7 @@
 ## 📚 Apna College Sheet Questions by Topic
 
 <details id="arrays">
-<summary><h3>📁 Arrays — 15/26 Solved (57.7%)</h3></summary>
+<summary><h3>📁 Arrays — 16/26 Solved (61.5%)</h3></summary>
 
 | Status | # | Problem | Companies | Notes / Remarks | Solution |
 | :---: | :---: | :--- | :--- | :--- | :--- |
@@ -180,7 +180,7 @@
 | ✅ | 13 | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | Amazon D-E-Shaw Microsoft Morgan Stanley OYO Rooms Google | - | [LeetCode](leetcode/152-maximum-product-subarray) |
 | ⬜ | 14 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | - |
 | ⬜ | 15 | [Find Pair with Sum in Sorted & Rotated Array](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/?ref=lbp) | Microsoft + Google + Apple Interview Qs | - | - |
-| ⬜ | 16 | [3Sum](https://leetcode.com/problems/3sum/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | - |
+| ✅ | 16 | [3Sum](https://leetcode.com/problems/3sum/) | Adobe Amazon Microsoft Morgan Stanley Samsung Snapdeal Times Internet | - | [LeetCode](leetcode/15-3sum) |
 | ⬜ | 17 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Flipkart + Dunzo Interview Qs | - | - |
 | ✅ | 18 | [Given Sum Pair](https://www.geeksforgeeks.org/given-a-sorted-and-rotated-array-find-if-there-is-a-pair-with-a-given-sum/) | Infosys + Amazon + Flipkart Interview Qs | - | [LeetCode](leetcode/1-two-sum) |
 | ✅ | 19 | [Kth - Smallest Element](https://practice.geeksforgeeks.org/problems/kth-smallest-element5635/1) | ABCO Accolite Amazon Cisco Hike Microsoft Snapdeal VMWare Google Adobe | - | [GFG](Geeks%20For%20Geeks/Kth%20Smallest) |
