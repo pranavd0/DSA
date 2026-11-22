@@ -25,19 +25,19 @@
       <td><code>██░░░░░░░░░░░░░░░░</code> <b>13.3%</b></td>
       <td rowspan="3" align="center" valign="middle">
         <a href="#-topic-summary">
-          <img src=".github/assets/total_solved_127.svg" alt="Total Solved: 127 Problems" width="165" />
+          <img src=".github/assets/total_solved_128.svg" alt="Total Solved: 128 Problems" width="165" />
         </a>
       </td>
     </tr>
     <tr>
       <td><b>🌟 Outside Sheet Problems</b></td>
-      <td align="center"><code>77</code></td>
+      <td align="center"><code>78</code></td>
       <td align="center">-</td>
       <td><code>██████████████████</code> <b>Tracked</b></td>
     </tr>
     <tr>
       <td><b>🔥 Total Solved in Repo</b></td>
-      <td align="center"><code>127</code></td>
+      <td align="center"><code>128</code></td>
       <td align="center">-</td>
       <td><b>All Platforms</b></td>
     </tr>
@@ -70,9 +70,9 @@
 ---
 
 <details id="additional-solved">
-<summary><h3>🌟 Outside Sheet Problems (77 Extra Solved)</h3></summary>
+<summary><h3>🌟 Outside Sheet Problems (78 Extra Solved)</h3></summary>
 
-> Additional 77 Problems Solved on LeetCode/GFG outside the Apna College sheet.
+> Additional 78 Problems Solved on LeetCode/GFG outside the Apna College sheet.
 
 | # | Platform | Problem | &nbsp;Difficulty&nbsp; | Solution |
 | :---: | :---: | :--- | :---: | :--- |
@@ -91,68 +91,69 @@
 | 13 | **LeetCode** | [Happy Number](https://leetcode.com/problems/happy-number/) | 🟢&nbsp;Easy | [Solution](leetcode/202-happy-number) |
 | 14 | **LeetCode** | [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/203-remove-linked-list-elements) |
 | 15 | **LeetCode** | [2](https://leetcode.com/problems/count-primes/) | 🟡&nbsp;Medium | [Solution](leetcode/204-count-primes) |
-| 16 | **LeetCode** | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/2148-count-elements-with-strictly-smaller-and-greater-elements) |
-| 17 | **LeetCode** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡&nbsp;Medium | [Solution](leetcode/22-generate-parentheses) |
-| 18 | **LeetCode** | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡&nbsp;Medium | [Solution](leetcode/2265-count-nodes-equal-to-average-of-subtree) |
-| 19 | **LeetCode** | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | 🟢&nbsp;Easy | [Solution](leetcode/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
-| 20 | **LeetCode** | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡&nbsp;Medium | [Solution](leetcode/24-swap-nodes-in-pairs) |
-| 21 | **LeetCode** | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢&nbsp;Easy | [Solution](leetcode/2409-count-days-spent-together) |
-| 22 | **LeetCode** | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | 🟢&nbsp;Easy | [Solution](leetcode/2520-count-the-digits-that-divide-a-number) |
-| 23 | **LeetCode** | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢&nbsp;Easy | [Solution](leetcode/258-add-digits) |
-| 24 | **LeetCode** | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/28-find-the-index-of-the-first-occurrence-in-a-string) |
-| 25 | **LeetCode** | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/3159-find-occurrences-of-an-element-in-an-array) |
-| 26 | **LeetCode** | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | 🟡&nbsp;Medium | [Solution](leetcode/3331-find-subtree-sizes-after-changes) |
-| 27 | **LeetCode** | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | 🟡&nbsp;Medium | [Solution](leetcode/3665-twisted-mirror-path-count) |
-| 28 | **LeetCode** | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢&nbsp;Easy | [Solution](leetcode/3799-unique-3-digit-even-numbers) |
-| 29 | **LeetCode** | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/3811-reverse-degree-of-a-string) |
-| 30 | **LeetCode** | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡&nbsp;Medium | [Solution](leetcode/3831-find-x-value-of-array-i) |
-| 31 | **LeetCode** | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | 🟡&nbsp;Medium | [Solution](leetcode/3863-minimum-operations-to-sort-a-string) |
-| 32 | **LeetCode** | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢&nbsp;Easy | [Solution](leetcode/3869-smallest-index-with-digit-sum-equal-to-index) |
-| 33 | **LeetCode** | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡&nbsp;Medium | [Solution](leetcode/3882-minimum-xor-path-in-a-grid) |
-| 34 | **LeetCode** | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | 🟡&nbsp;Medium | [Solution](leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
-| 35 | **LeetCode** | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢&nbsp;Easy | [Solution](leetcode/4245-count-commas-in-range) |
-| 36 | **LeetCode** | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡&nbsp;Medium | [Solution](leetcode/4248-count-commas-in-range-ii) |
-| 37 | **LeetCode** | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/442-find-all-duplicates-in-an-array) |
-| 38 | **LeetCode** | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡&nbsp;Medium | [Solution](leetcode/50-powx-n) |
-| 39 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡&nbsp;Medium | [Solution](leetcode/525-contiguous-array) |
-| 40 | **LeetCode** | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡&nbsp;Medium | [Solution](leetcode/540-single-element-in-a-sorted-array) |
-| 41 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡&nbsp;Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
-| 42 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡&nbsp;Medium | [Solution](leetcode/6-zigzag-conversion) |
-| 43 | **LeetCode** | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡&nbsp;Medium | [Solution](leetcode/633-sum-of-square-numbers) |
-| 44 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢&nbsp;Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
-| 45 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢&nbsp;Easy | [Solution](leetcode/645-set-mismatch) |
-| 46 | **LeetCode** | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡&nbsp;Medium | [Solution](leetcode/7-reverse-integer) |
-| 47 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡&nbsp;Medium | [Solution](leetcode/707-design-linked-list) |
-| 48 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢&nbsp;Easy | [Solution](leetcode/724-find-pivot-index) |
-| 49 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡&nbsp;Medium | [Solution](leetcode/739-daily-temperatures) |
-| 50 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡&nbsp;Medium | [Solution](leetcode/78-subsets) |
-| 51 | **LeetCode** | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢&nbsp;Easy | [Solution](leetcode/812-rotate-string) |
-| 52 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢&nbsp;Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
-| 53 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡&nbsp;Medium | [Solution](leetcode/901-advantage-shuffle) |
-| 54 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢&nbsp;Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
-| 55 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/912-sort-an-array) |
-| 56 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
-| 57 | **GFG** | [1 to n Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/1%20to%20n%20Without%20Loop) |
-| 58 | **GFG** | [All Divisors of Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/All%20Divisors%20of%20Number) |
-| 59 | **GFG** | [Count Digits in Number](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Count%20Digits%20in%20Number) |
-| 60 | **GFG** | [Decision Making](https://www.geeksforgeeks.org/problems/decision-making/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Decision%20Making) |
-| 61 | **GFG** | [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Factorial) |
-| 62 | **GFG** | [First Occurrence in Sorted](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/First%20Occurrence%20in%20Sorted) |
-| 63 | **GFG** | [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Friends%20Pairing%20Problem) |
-| 64 | **GFG** | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Nth%20Fibonacci%20Using%20Recursion) |
-| 65 | **GFG** | Odd or Even | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Odd%20or%20Even) |
-| 66 | **GFG** | [Palindrome Number](https://www.geeksforgeeks.org/problems/palindrome0746/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Palindrome%20Number) |
-| 67 | **GFG** | [Permute Arrays for Sum Threshold](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Permute%20Arrays%20for%20Sum%20Threshold) |
-| 68 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
-| 69 | **GFG** | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Prime%20Number) |
-| 70 | **GFG** | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Print%20GFG%20n%20times) |
-| 71 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
-| 72 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
-| 73 | **GFG** | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20Of%20Digits) |
-| 74 | **GFG** | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers) |
-| 75 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
-| 76 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
-| 77 | **GFG** | [k Largest Elements](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/k%20Largest%20Elements) |
+| 16 | **LeetCode** | [Check if All A's Appears Before All B's](https://leetcode.com/problems/check-if-all-as-appears-before-all-bs/) | 🟢&nbsp;Easy | [Solution](leetcode/2124-check-if-all-as-appears-before-all-bs) |
+| 17 | **LeetCode** | [Count Elements With Strictly Smaller and Greater Elements](https://leetcode.com/problems/count-elements-with-strictly-smaller-and-greater-elements/) | 🟢&nbsp;Easy | [Solution](leetcode/2148-count-elements-with-strictly-smaller-and-greater-elements) |
+| 18 | **LeetCode** | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | 🟡&nbsp;Medium | [Solution](leetcode/22-generate-parentheses) |
+| 19 | **LeetCode** | [Count Nodes Equal to Average of Subtree](https://leetcode.com/problems/count-nodes-equal-to-average-of-subtree/) | 🟡&nbsp;Medium | [Solution](leetcode/2265-count-nodes-equal-to-average-of-subtree) |
+| 20 | **LeetCode** | [Minimum Recolors to Get K Consecutive Black Blocks](https://leetcode.com/problems/minimum-recolors-to-get-k-consecutive-black-blocks/) | 🟢&nbsp;Easy | [Solution](leetcode/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| 21 | **LeetCode** | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | 🟡&nbsp;Medium | [Solution](leetcode/24-swap-nodes-in-pairs) |
+| 22 | **LeetCode** | [Count Days Spent Together](https://leetcode.com/problems/count-days-spent-together/) | 🟢&nbsp;Easy | [Solution](leetcode/2409-count-days-spent-together) |
+| 23 | **LeetCode** | [Count the Digits That Divide a Number](https://leetcode.com/problems/count-the-digits-that-divide-a-number/) | 🟢&nbsp;Easy | [Solution](leetcode/2520-count-the-digits-that-divide-a-number) |
+| 24 | **LeetCode** | [Add Digits](https://leetcode.com/problems/add-digits/) | 🟢&nbsp;Easy | [Solution](leetcode/258-add-digits) |
+| 25 | **LeetCode** | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/28-find-the-index-of-the-first-occurrence-in-a-string) |
+| 26 | **LeetCode** | [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/3159-find-occurrences-of-an-element-in-an-array) |
+| 27 | **LeetCode** | [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/) | 🟡&nbsp;Medium | [Solution](leetcode/3331-find-subtree-sizes-after-changes) |
+| 28 | **LeetCode** | [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count/) | 🟡&nbsp;Medium | [Solution](leetcode/3665-twisted-mirror-path-count) |
+| 29 | **LeetCode** | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/) | 🟢&nbsp;Easy | [Solution](leetcode/3799-unique-3-digit-even-numbers) |
+| 30 | **LeetCode** | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string/) | 🟢&nbsp;Easy | [Solution](leetcode/3811-reverse-degree-of-a-string) |
+| 31 | **LeetCode** | [Find X Value of Array I](https://leetcode.com/problems/find-x-value-of-array-i/) | 🟡&nbsp;Medium | [Solution](leetcode/3831-find-x-value-of-array-i) |
+| 32 | **LeetCode** | [Minimum Operations to Sort a String](https://leetcode.com/problems/minimum-operations-to-sort-a-string/) | 🟡&nbsp;Medium | [Solution](leetcode/3863-minimum-operations-to-sort-a-string) |
+| 33 | **LeetCode** | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index/) | 🟢&nbsp;Easy | [Solution](leetcode/3869-smallest-index-with-digit-sum-equal-to-index) |
+| 34 | **LeetCode** | [Minimum XOR Path in a Grid](https://leetcode.com/problems/minimum-xor-path-in-a-grid/) | 🟡&nbsp;Medium | [Solution](leetcode/3882-minimum-xor-path-in-a-grid) |
+| 35 | **LeetCode** | [Shortest Path With At Most K Consecutive Identical Characters](https://leetcode.com/problems/shortest-path-with-at-most-k-consecutive-identical-characters/) | 🟡&nbsp;Medium | [Solution](leetcode/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+| 36 | **LeetCode** | [Count Commas in Range](https://leetcode.com/problems/count-commas-in-range/) | 🟢&nbsp;Easy | [Solution](leetcode/4245-count-commas-in-range) |
+| 37 | **LeetCode** | [Count Commas in Range II](https://leetcode.com/problems/count-commas-in-range-ii/) | 🟡&nbsp;Medium | [Solution](leetcode/4248-count-commas-in-range-ii) |
+| 38 | **LeetCode** | [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/442-find-all-duplicates-in-an-array) |
+| 39 | **LeetCode** | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | 🟡&nbsp;Medium | [Solution](leetcode/50-powx-n) |
+| 40 | **LeetCode** | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | 🟡&nbsp;Medium | [Solution](leetcode/525-contiguous-array) |
+| 41 | **LeetCode** | [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) | 🟡&nbsp;Medium | [Solution](leetcode/540-single-element-in-a-sorted-array) |
+| 42 | **LeetCode** | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | 🟡&nbsp;Medium | [Solution](leetcode/560-subarray-sum-equals-k) |
+| 43 | **LeetCode** | [Zigzag Conversion](https://leetcode.com/problems/zigzag-conversion/) | 🟡&nbsp;Medium | [Solution](leetcode/6-zigzag-conversion) |
+| 44 | **LeetCode** | [Sum of Square Numbers](https://leetcode.com/problems/sum-of-square-numbers/) | 🟡&nbsp;Medium | [Solution](leetcode/633-sum-of-square-numbers) |
+| 45 | **LeetCode** | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | 🟢&nbsp;Easy | [Solution](leetcode/643-maximum-average-subarray-i) |
+| 46 | **LeetCode** | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | 🟢&nbsp;Easy | [Solution](leetcode/645-set-mismatch) |
+| 47 | **LeetCode** | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | 🟡&nbsp;Medium | [Solution](leetcode/7-reverse-integer) |
+| 48 | **LeetCode** | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | 🟡&nbsp;Medium | [Solution](leetcode/707-design-linked-list) |
+| 49 | **LeetCode** | [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) | 🟢&nbsp;Easy | [Solution](leetcode/724-find-pivot-index) |
+| 50 | **LeetCode** | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | 🟡&nbsp;Medium | [Solution](leetcode/739-daily-temperatures) |
+| 51 | **LeetCode** | [Subsets](https://leetcode.com/problems/subsets/) | 🟡&nbsp;Medium | [Solution](leetcode/78-subsets) |
+| 52 | **LeetCode** | [Rotate String](https://leetcode.com/problems/rotate-string/) | 🟢&nbsp;Easy | [Solution](leetcode/812-rotate-string) |
+| 53 | **LeetCode** | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | 🟢&nbsp;Easy | [Solution](leetcode/83-remove-duplicates-from-sorted-list) |
+| 54 | **LeetCode** | [Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) | 🟡&nbsp;Medium | [Solution](leetcode/901-advantage-shuffle) |
+| 55 | **LeetCode** | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | 🟢&nbsp;Easy | [Solution](leetcode/908-middle-of-the-linked-list) |
+| 56 | **LeetCode** | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | 🟡&nbsp;Medium | [Solution](leetcode/912-sort-an-array) |
+| 57 | **LeetCode** | [Distinct Subsequences II](https://leetcode.com/problems/distinct-subsequences-ii/) | 🔴&nbsp;Hard | [Solution](leetcode/977-distinct-subsequences-ii) |
+| 58 | **GFG** | [1 to n Without Loop](https://www.geeksforgeeks.org/problems/print-1-to-n-without-using-loops-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/1%20to%20n%20Without%20Loop) |
+| 59 | **GFG** | [All Divisors of Number](https://www.geeksforgeeks.org/problems/all-divisors-of-a-number/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/All%20Divisors%20of%20Number) |
+| 60 | **GFG** | [Count Digits in Number](https://www.geeksforgeeks.org/problems/count-total-digits-in-a-number/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Count%20Digits%20in%20Number) |
+| 61 | **GFG** | [Decision Making](https://www.geeksforgeeks.org/problems/decision-making/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Decision%20Making) |
+| 62 | **GFG** | [Factorial](https://www.geeksforgeeks.org/problems/factorial5739/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Factorial) |
+| 63 | **GFG** | [First Occurrence in Sorted](https://www.geeksforgeeks.org/problems/binary-search-1587115620/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/First%20Occurrence%20in%20Sorted) |
+| 64 | **GFG** | [Friends Pairing Problem](https://www.geeksforgeeks.org/problems/friends-pairing-problem5425/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Friends%20Pairing%20Problem) |
+| 65 | **GFG** | [Nth Fibonacci Using Recursion](https://www.geeksforgeeks.org/problems/fibonacci-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Nth%20Fibonacci%20Using%20Recursion) |
+| 66 | **GFG** | Odd or Even | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Odd%20or%20Even) |
+| 67 | **GFG** | [Palindrome Number](https://www.geeksforgeeks.org/problems/palindrome0746/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Palindrome%20Number) |
+| 68 | **GFG** | [Permute Arrays for Sum Threshold](https://www.geeksforgeeks.org/problems/permutations-in-array1747/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Permute%20Arrays%20for%20Sum%20Threshold) |
+| 69 | **GFG** | [Power Using Recursion](https://www.geeksforgeeks.org/problems/power-using-recursion/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Power%20Using%20Recursion) |
+| 70 | **GFG** | [Prime Number](https://www.geeksforgeeks.org/problems/prime-number2314/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Prime%20Number) |
+| 71 | **GFG** | [Print GFG n times](https://www.geeksforgeeks.org/problems/print-gfg-n-times/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Print%20GFG%20n%20times) |
+| 72 | **GFG** | [Rotate Array by One](https://www.geeksforgeeks.org/problems/cyclically-rotate-an-array-by-one2614/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Rotate%20Array%20by%20One) |
+| 73 | **GFG** | [String Duplicates Removal](https://www.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/String%20Duplicates%20Removal) |
+| 74 | **GFG** | [Sum Of Digits](https://www.geeksforgeeks.org/problems/sum-of-digits1742/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20Of%20Digits) |
+| 75 | **GFG** | [Sum of Natural Numbers](https://www.geeksforgeeks.org/problems/reverse-coding2452/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Sum%20of%20Natural%20Numbers) |
+| 76 | **GFG** | [Toggle Case](https://www.geeksforgeeks.org/problems/toggle-case/1) | 🟢&nbsp;Easy | [Solution](Geeks%20For%20Geeks/Toggle%20Case) |
+| 77 | **GFG** | [Ways To Tile A Floor](https://www.geeksforgeeks.org/problems/ways-to-tile-a-floor5836/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/Ways%20To%20Tile%20A%20Floor) |
+| 78 | **GFG** | [k Largest Elements](https://www.geeksforgeeks.org/problems/k-largest-elements4206/1) | 🟡&nbsp;Medium | [Solution](Geeks%20For%20Geeks/k%20Largest%20Elements) |
 
 [⬆ Back to Summary](#-topic-summary)
 
